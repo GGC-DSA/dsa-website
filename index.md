@@ -34,7 +34,7 @@ sections:
           Here is the list of DSA hackathons.
         actions:
           - label: Hackathon events
-            url: /style-guide
+            url: /hackathons
             style: link
   - section_id: text-img
     type: section_content
