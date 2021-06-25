@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Sectionz
+    title: Hero Section
     image: images/5.jpg
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
@@ -16,7 +16,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Documentation
+      - title: DSA
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
