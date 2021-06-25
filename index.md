@@ -15,10 +15,10 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: DSA
+      - title: Events
         content: >-
-          Data Science and Analytics is a new IT concentration.
-        actions:
+          Here are our main events. 
+          actions:
           - label: Get Started
             url: /docs
             style: link
