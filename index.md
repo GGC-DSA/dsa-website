@@ -18,7 +18,7 @@ sections:
     grid_items:
       - title: DSA
         content: >-
-          Data Science and Analytics
+          Data Science and Analytics is a new IT concentration.
         actions:
           - label: Get Started
             url: /docs
