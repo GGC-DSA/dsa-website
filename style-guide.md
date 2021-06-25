@@ -72,14 +72,7 @@ layout: page
         <td><a href="https://techtogether.io/atlanta">https://techtogether.io/atlanta</a></td>
       </tr>
     </tbody>
-    <tfoot>
-      <tr>
-        <td>Footer content 1</td> 
-        <td>Footer content 1</td> 
-        <td>Footer content 1</td>
-        <td>Footer content 2</td>
-      </tr>
-    </tfoot>
+    
   </table>
 </div>
 
