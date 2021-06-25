@@ -57,13 +57,19 @@ layout: page
         <td>Code for Good</td>
         <td>Duke University</td> 
         <td>December 5th-6th 2020</td> 
-        <td><a href="https://hackduke.org/">link</a></td>
+        <td><a href="https://hackduke.org/">https://hackduke.org/</a></td>
       </tr> 
       <tr>
         <td>Hacklytics</td>
         <td>Georgia Tech</td> 
         <td>February 5th-7th 2020</td> 
         <td><a href="https://hacklytics.io/">https://hacklytics.io/</a></td>
+      </tr> 
+      <tr>
+        <td>TechTogether Atlanta</td>
+        <td>Atlanta</td> 
+        <td>March 12th-15th 2020</td> 
+        <td><a href="https://techtogether.io/atlanta">https://techtogether.io/atlanta</a></td>
       </tr>
     </tbody>
     <tfoot>
