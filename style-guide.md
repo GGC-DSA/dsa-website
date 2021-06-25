@@ -40,21 +40,27 @@ layout: page
 
 <div class="responsive-table">
   <table>
-      <caption>Table with thead, tfoot, and tbody</caption>
+     
     <thead>
       <tr>
-        <th>Header content 1</th>
-        <th>Header content 2</th>
+        <th>Event</th> 
+        <th>Location</th>
+        <th>Date</th> 
+        <th>Link</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Body content 1</td>
-        <td>Body content 2</td>
+        <td>Code for Good</td>
+        <td>Duke University</td> 
+        <td>December 5th-6th 2020</td> 
+        <td>https://hackduke.org/</td>
       </tr>
     </tbody>
     <tfoot>
       <tr>
+        <td>Footer content 1</td> 
+        <td>Footer content 1</td> 
         <td>Footer content 1</td>
         <td>Footer content 2</td>
       </tr>
