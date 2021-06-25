@@ -22,12 +22,11 @@ sections:
           - label: Get Started
             url: /docs
             style: link
-      - title: Blog
+      - title: Projects
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+           Projects are team-based, hands on involving DSA skills learned throughout several data science and analytics classes. Projects are based on real world DSA field examples. Here are the projects build by previous students.
         actions:
-          - label: View Posts
+          - label: Projects
             url: /blog
             style: link
       - title: Style Guide
