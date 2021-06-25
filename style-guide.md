@@ -54,7 +54,7 @@ layout: page
         <td>Code for Good</td>
         <td>Duke University</td> 
         <td>December 5th-6th 2020</td> 
-        <td>[link](https://hackduke.org/)</td>
+        <td><a href="https://hackduke.org/" >[link](https://hackduke.org/)</td>
       </tr>
     </tbody>
     <tfoot>
