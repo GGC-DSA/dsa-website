@@ -29,13 +29,11 @@ sections:
           - label: Projects
             url: /blog
             style: link
-      - title: Hackatons
+      - title: Hackathons
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Here is the list of DSA hackathons.
         actions:
-          - label: Learn More
+          - label: Hackathon events
             url: /style-guide
             style: link
   - section_id: text-img
