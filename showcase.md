@@ -10,7 +10,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Fresh
+      - title: Talk
         title_url: 'https://www.youtube.com/watch?v=nmO-Xb6FHJ8&ab_channel=AncaDoloc-Mihu'
         image: images/evolution.jpg
         content: By Professor Jennifer Priestley, Kennesaw State University, April 15th 2020.
