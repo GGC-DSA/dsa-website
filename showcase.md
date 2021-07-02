@@ -5,27 +5,19 @@ sections:
     type: section_hero
     title: My Showcase
     image: images/5.jpg
-    content: This is an optional page subtitle
+    content: DSA upcoming and past events
   - section_id: showcase
     type: section_grid
     col_number: three
     grid_items:
-      - title: Talk
+      - title: Presentation
         title_url: 'https://www.youtube.com/watch?v=nmO-Xb6FHJ8&ab_channel=AncaDoloc-Mihu'
         image: images/evolution.jpg
         content: By Professor Jennifer Priestley, Kennesaw State University, April 15th 2020.
-      - title: Fresh
-        title_url: 'https://themes.stackbit.com/demos/fresh/'
-        image: images/7.jpg
-        content: A personal theme for Unibit
-      - title: Fjord
-        title_url: 'https://themes.stackbit.com/demos/fjord/'
-        image: images/8.jpg
-        content: A minimal blogging theme for Unibit
-      - title: Ampersand
-        title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
-        image: images/9.jpg
-        content: Medium inspired blogging theme for Unibit
+      - title: Presentation
+        title_url: 'https://www.youtube.com/watch?v=wqowUFtmKBE&ab_channel=AncaDoloc-Mihu'
+        image: images/tech talk.jpg
+        content: by Dr. Eric Schmidt, Director, Global Data and Analytics, The Coca-Cola Company, September 22nd 2020.
 seo:
   title: Showcase
   description: This is the showcase page
