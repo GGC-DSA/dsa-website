@@ -10,7 +10,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Data Science and Analytics TechTalk, The Evolution of Data Science: What it means for you. 
+      - title: Fresh
         title_url: 'https://www.youtube.com/watch?v=nmO-Xb6FHJ8&ab_channel=AncaDoloc-Mihu'
         image: images/6.jpg
         content: By Professor Jennifer Priestley, Kennesaw State University, April 15th 2020.
