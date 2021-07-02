@@ -12,7 +12,7 @@ sections:
     grid_items: 
       - title: Link
         title_url: <iframe width="560" height="315" src="https://www.youtube.com/watch?v=wqowUFtmKBE&ab_channel=AncaDoloc-Mihu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-        image: images/tech talk.jpg
+        image: images/dsa-erick-smidth.PNG
         content: by Dr. Eric Schmidt, Director, Global Data and Analytics, The Coca-Cola Company, September 22nd 2020.
       - title: Link
         title_url: 'https://www.youtube.com/watch?v=nmO-Xb6FHJ8&ab_channel=AncaDoloc-Mihu'
