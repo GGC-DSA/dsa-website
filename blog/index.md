@@ -5,7 +5,7 @@ image: images/5.jpg
 has_more_link: true
 more_link_text: Read more
 seo:
-  title: Blog
+  title: Graduates
   description: This is the blog page
   extra:
     - name: 'og:type'
