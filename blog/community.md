@@ -34,4 +34,4 @@ seo:
       relativeUrl: true
 layout: post
 ---
-image: images/grad 1.PNG
+    - image: images/grad 1.PNG
