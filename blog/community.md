@@ -1,9 +1,18 @@
 ---
 title: Commencement pictures
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem turpis at.
+   - section_id: showcase
+    type: section_grid
+    col_number: three
+    grid_items: 
+      - title: Link
+        title_url: 'https://www.youtube.com/watch?v=wqowUFtmKBE&ab_channel=AncaDoloc-Mihu'
+        image: images/dsa-erick-smidth.jpg
+        content: by Dr. Eric Schmidt, Director, Global Data and Analytics, The Coca-Cola Company, September 22nd 2020.
+      - title: Link
+        title_url: 'https://www.youtube.com/watch?v=nmO-Xb6FHJ8&ab_channel=AncaDoloc-Mihu'
+        image: images/evolution.jpg
+        content: By Professor Jennifer Priestley, Kennesaw State University, April 15th 2020.   
 date: '2021-05-13'
 image: images/2.jpg
 seo:
