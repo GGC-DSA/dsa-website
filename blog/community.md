@@ -12,11 +12,14 @@ sections:
       - title: Link
         title_url: 'https://www.youtube.com/watch?v=wqowUFtmKBE&ab_channel=AncaDoloc-Mihu'
         image: images/grad 1.PNG
-        content: by Dr. Eric Schmidt, Director, Global Data and Analytics, The Coca-Cola Company, September 22nd 2020.
       - title: Link
         title_url: 'https://www.youtube.com/watch?v=nmO-Xb6FHJ8&ab_channel=AncaDoloc-Mihu'
-        image: images/evolution.jpg
-        content: By Professor Jennifer Priestley, Kennesaw State University, April 15th 2020.      
+        image: images/grad 2.PNG 
+        image: images/grad 3.PNG 
+        image: images/grad 4.PNG 
+        image: images/grad 5.PNG 
+        image: images/grad 6.PNG
+              
 seo:
   title: Showcase
   description: This is the showcase page
