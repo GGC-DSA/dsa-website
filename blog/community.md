@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Graduation day
-    image: images/5.jpg
+    image: images/5.jpg 
+    content: Spring 2021 Graduation Class
   - section_id: showcase
     type: section_grid
     col_number: three
@@ -15,9 +16,17 @@ sections:
       - title: Link
         title_url: 'https://www.youtube.com/watch?v=nmO-Xb6FHJ8&ab_channel=AncaDoloc-Mihu'
         image: images/grad 2.PNG 
+      - title: Link
+        title_url: 'https://www.youtube.com/watch?v=nmO-Xb6FHJ8&ab_channel=AncaDoloc-Mihu'
         image: images/grad 3.PNG 
+      - title: Link
+        title_url: 'https://www.youtube.com/watch?v=nmO-Xb6FHJ8&ab_channel=AncaDoloc-Mihu'
         image: images/grad 4.PNG 
-        image: images/grad 5.PNG 
+      - title: Link
+        title_url: 'https://www.youtube.com/watch?v=nmO-Xb6FHJ8&ab_channel=AncaDoloc-Mihu'
+        image: images/grad 5.PNG  
+      - title: Link
+        title_url: 'https://www.youtube.com/watch?v=nmO-Xb6FHJ8&ab_channel=AncaDoloc-Mihu'
         image: images/grad 6.PNG
               
 seo:
