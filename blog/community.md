@@ -10,6 +10,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items: 
+      - title: Link
         title_url: 'https://www.youtube.com/watch?v=wqowUFtmKBE&ab_channel=AncaDoloc-Mihu'
         image: images/grad 1.PNG
       - title: Link
