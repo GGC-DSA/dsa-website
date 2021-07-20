@@ -14,7 +14,7 @@ sections:
         title_url: 'https://www.youtube.com/watch?v=dRK6an0MxaI&t=5s&ab_channel=GeorgiaGwinnettCollege'
         image: images/grad 1.PNG
       - title: Link
-        title_url: 'https://www.youtube.com/watch?v=hLR81K0s63A&t=2s&ab_channel=GeorgiaGwinnettCollege'
+        title_url: 'https://www.youtube.com/watch?v=BJs6ei-FaM4&ab_channel=GeorgiaGwinnettCollege'
         image: images/grad 2.PNG 
       - title: Link
         title_url: 'https://www.youtube.com/watch?v=hLR81K0s63A&t=2s&ab_channel=GeorgiaGwinnettCollege'
