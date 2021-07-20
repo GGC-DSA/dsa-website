@@ -11,7 +11,7 @@ sections:
     col_number: three
     grid_items: 
       - title: Link
-        title_url: 'https://www.youtube.com/watch?v=wqowUFtmKBE&ab_channel=AncaDoloc-Mihu'
+        title_url: 'https://www.youtube.com/watch?v=dRK6an0MxaI&t=5s&ab_channel=GeorgiaGwinnettCollege'
         image: images/grad 1.PNG
       - title: Link
         title_url: 'https://www.youtube.com/watch?v=nmO-Xb6FHJ8&ab_channel=AncaDoloc-Mihu'
