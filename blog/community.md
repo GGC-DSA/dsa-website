@@ -3,7 +3,7 @@ title: Commencement Pictures
 sections:
   - section_id: hero
     type: section_hero
-    title: Graduation day
+    title: Graduation Day
     image: images/5.jpg 
     content: Spring 2021 Graduation Class
   - section_id: showcase
