@@ -37,7 +37,29 @@ layout: page
 
 ## Upcoming Hackathons 
 
-...TBA 
+
+<div class="responsive-table">
+  <table>
+     
+    <thead>
+      <tr>
+        <th>Event</th> 
+        <th>Location</th>
+        <th>Date</th> 
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Hacklytics</td>
+        <td>Georgia Tech</td> 
+        <td>February 5th-7th 2021</td> 
+        <td><a href="https://hacklytics.io/">https://hacklytics.io/</a></td>
+      </tr>
+    </tbody>
+    
+  </table>
+</div>
 
 ## Past Hackathons 
 
