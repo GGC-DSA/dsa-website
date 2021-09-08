@@ -15,7 +15,7 @@
 11. Change Libris home page image to a DSA or GGC related image
 12. Change Homepage get started button to the course description page(create course description page)
 13. Call to action block either find page to redirect to or delete 
-14. Fix blog button to say coming soon. Reminder to connect to the Blog DSA project
+14. ~~Fix blog button to say coming soon. Reminder to connect to the Blog DSA project~~
 15. 
 
 <img src="https://themes.stackbit.com/images/libris-demo-1024x768.png" width="600">
