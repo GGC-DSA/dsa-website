@@ -1,5 +1,5 @@
 ---
-title: Commencement Pictures
+title: Blog build to help DSA students communicate to find out information about the course. Coming soon...
 sections:
   - section_id: hero
     type: section_hero
