@@ -1,14 +1,14 @@
 ---
-title: Graduates
-subtitle: Georgia Gwinnett College Grads
+title: DSA BLOG
+subtitle: Blog for DSA students
 image: images/5.jpg
 has_more_link: true
 more_link_text: Read more 
  
 
 seo:
-  title: Graduates
-  description: This is the blog page
+  title: DSA BLOG
+  description: Blog build to help DSA students communicate to find out information about the course. Coming soon...
   extra:
     - name: 'og:type'
       value: website
