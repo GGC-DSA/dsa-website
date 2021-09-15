@@ -1,11 +1,11 @@
 ---
-title: project1
+title: Project Health Status
 sections:
   - section_id: hero
     type: section_hero
     title: Health Status Prediction
     image: images/5.jpg
-      - title: Projects
+      - title: Project Health Status
         content: >-
            Projects are team-based, hands on involving DSA skills learned throughout several data science and analytics classes. Projects are based on real world DSA field examples. Here are the projects build by previous students.
   - section_id: text-img
