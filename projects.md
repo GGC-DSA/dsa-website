@@ -3,7 +3,7 @@ title: DSA Capstone Projects
 sections:
   - section_id: hero
     type: section_hero
-    title: Overview
+    title: DSA Capstone Projects
     image: images/5.jpg
     content: Grouped per semester
   - section_id: docs-overview
