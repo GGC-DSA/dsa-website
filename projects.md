@@ -1,21 +1,21 @@
 ---
-title: Overview
+title: DSA Capstone Projects
 sections:
   - section_id: hero
     type: section_hero
     title: Overview
     image: images/5.jpg
-    content: An optional subtitle
+    content: Grouped per semester
   - section_id: docs-overview
     type: section_docs
-    col_number: three
+    col_number: two
   - section_id: cta
     type: section_cta
-    title: The Title of The Call to Action Block
-    subtitle: This is an optional description for the call to action block.
+    title: Projects older than 3 years...
+    subtitle: This archive includes all previous projects... Coming soon...
     actions:
-      - label: Get Started
-        url: /docs/getting-started
+      - label: Archived
+        url: /docs/archive-projects
         style: primary
 seo:
   title: Overview
