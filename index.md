@@ -27,7 +27,7 @@ sections:
            Projects are team-based, hands on involving DSA skills learned throughout several data science and analytics classes. Projects are based on real world DSA field examples. Here are the projects build by previous students.
         actions:
           - label: Projects
-            url: /blog
+            url: /projects
             style: link
       - title: Hackathons
         content: >-
