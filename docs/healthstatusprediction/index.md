@@ -15,11 +15,9 @@ sections:
     type: section_content
     image: images/posterimageHealthStatus.PNG
     image_position: left
-    title: A Section With An Image
+    title: Team IT Girls: Sarah Price, Ruth Whitehouse, May Kamreen, Lillian Sheppard
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Project Goal: Create a visual to show the correlation between the most common Heart Disease symptoms and their Heart Health Status. Using the PCA algorithm we concluded that the most important factors in our dataset were age and sex, and there was no correlation to cholesterol and diabetes.
     actions:
       - label: View Demo
         url: /docs/getting-started
