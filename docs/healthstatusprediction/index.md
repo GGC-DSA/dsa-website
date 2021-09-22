@@ -12,7 +12,7 @@ sections:
       Projects are team-based, hands on involving DSA skills learned throughout several data science and analytics classes. Projects are based on real world DSA field examples. Here are the projects build by previous students.
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: images/posterimageHealthStatus.PNG
     image_position: left
     title: A Section With An Image
     content: >-
