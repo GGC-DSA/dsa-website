@@ -1,7 +1,7 @@
 ---
 title: Project Health Status
 excerpt: >-
-  Projects are team-based, hands on involving DSA skills learned throughout several data science and analytics classes. Projects are based on real world DSA field examples. Here are the projects build by previous students.You can use it for your project.
+  Create an exploratory visual that is both engaging and informative to a user about Heart Disease based on multiple risk factors.
 sections:
   - section_id: hero
     type: section_hero
