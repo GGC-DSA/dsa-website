@@ -1,5 +1,6 @@
 root_docs_path: /docs
 sections:
+  - healthstatusprediction
   - about
   - getting-started
   - ui-components
