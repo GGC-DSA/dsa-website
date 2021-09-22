@@ -1,5 +1,5 @@
 ---
-title: Project Health Status
+title: Health Status Project
 excerpt: >-
   Create an exploratory visual that is both engaging and informative to a user about Heart Disease based on multiple risk factors.
 sections:
@@ -7,9 +7,10 @@ sections:
     type: section_hero
     title: Health Status Prediction
     image: images/5.jpg
-    title: Project Health Status
+    title: Health Status Project
+    subtitle: by Team IT Girls SARAH PRICE, RUTH WHITEHOUSE, SHABABA KAMREEN, LILLIAN SHEPPARD
     content: >-
-      Projects are team-based, hands on involving DSA skills learned throughout several data science and analytics classes. Projects are based on real world DSA field examples. Here are the projects build by previous students.
+      Create an exploratory visual that is both engaging and informative to a user about Heart Disease based on multiple risk factors. 
   - section_id: text-img
     type: section_content
     image: images/posterimageHealthStatus.PNG
