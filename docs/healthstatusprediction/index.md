@@ -20,18 +20,18 @@ sections:
       Project Goal: Create a visual to show the correlation between the most common Heart Disease symptoms and their Heart Health Status. Using the PCA algorithm we concluded that the most important factors in our dataset were age and sex, and there was no correlation to cholesterol and diabetes.
     actions:
       - label: View Demo
-        url: /docs/getting-started
+        url: https://youtu.be/21AqqWrB0Cw
         style: primary
       - label: Get Started
         url: /docs/getting-started
         style: secondary
   - section_id: cta
     type: section_cta
-    title: The Title of The Call to Action Block
-    subtitle: This is an optional description for the call to action block.
+    title: GitHub Repo
+    subtitle: Technologies - Python, Jupyter Notebook, Tableau, D3.jS
     actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
+      - label: Repo
+        url: https://github.com/GGC-DSA/health-status-prediction
         style: primary
 seo:
   title: Stackbit Libris Theme
