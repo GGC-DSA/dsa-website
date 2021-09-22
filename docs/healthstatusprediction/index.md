@@ -22,8 +22,8 @@ sections:
       - label: View Demo
         url: https://youtu.be/21AqqWrB0Cw
         style: primary
-      - label: Get Started
-        url: /docs/getting-started
+      - label: Jupyter Notebook
+        url: https://colab.research.google.com/drive/1lKfwkLaYZRL_1_egt3l4mW35W79Hf4g-#scrollTo=UmgFkRxLcj5s
         style: secondary
   - section_id: cta
     type: section_cta
