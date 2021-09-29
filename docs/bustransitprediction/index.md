@@ -15,7 +15,6 @@ sections:
     type: section_content
     image: images/posterimageBusnet.PNG
     image_position: left
-    video: <iframe width="560" height="315" src="https://www.youtube.com/embed/8uuFIi-ghPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>           </iframe>
     title: BusNet by Daniel Redder, Brittany Giordano, Turner Nalley
     content: >-
       Busnet aims to make good travel time predictions for both the route and segments of the route using GPS data and a neural network
@@ -62,3 +61,4 @@ seo:
       relativeUrl: true
 layout: advanced
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8uuFIi-ghPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
