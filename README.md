@@ -14,7 +14,7 @@
 10. Rename Style guide to hackathon events and redirect to the new hackathon page 
 11. ~~Change Libris home page image to a DSA or GGC related image
 12. Change Homepage get started button to the course description page(create course description page)
-13. Call to action block either find page to redirect to about page
+13. ~~Call to action block either find page to redirect to about page
 14. ~~Fix blog button to say coming soon. Reminder to connect to the Blog DSA project~~
 15. 
 
