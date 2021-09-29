@@ -15,6 +15,7 @@ sections:
     type: section_content
     image: images/posterimageBusnet.PNG
     image_position: left
+    video: <iframe width="560" height="315" src="https://www.youtube.com/embed/8uuFIi-ghPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>           </iframe>
     title: BusNet by Daniel Redder, Brittany Giordano, Turner Nalley
     content: >-
       Busnet aims to make good travel time predictions for both the route and segments of the route using GPS data and a neural network
@@ -25,7 +26,6 @@ sections:
       - label: Live Data
         url: https://colab.research.google.com/drive/1U6bQ-Ys3x8siNMl-zr0SpZKuEu_uifQ9?usp=sharing
         style: secondary
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/8uuFIi-ghPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>           </iframe>
   - section_id: cta
     type: section_cta
     title: GitHub Repo
