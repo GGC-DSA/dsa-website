@@ -54,14 +54,12 @@ sections:
         style: secondary
   - section_id: text-no-img
     type: section_content
-    title: A Section Without Image
+    title: Get to know your Professors
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Contact and information about your professors.
     actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
+      - label: Instructors
+        url: /docs/about
         style: primary
   - section_id: features-two-col
     type: section_grid
