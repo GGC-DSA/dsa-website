@@ -15,7 +15,7 @@ sections:
     type: section_content
     image: images/posterimageBusnet.PNG
     image_position: left
-    title: BusNet Cloud by Daniel Redder, Brittany Giordano, Turner Nalley
+    title: BusNet by Daniel Redder, Brittany Giordano, Turner Nalley
     content: >-
       Busnet aims to make good travel time predictions for both the route and segments of the route using GPS data and a neural network
     actions:
