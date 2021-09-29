@@ -59,7 +59,7 @@ sections:
       Contact and information about your professors.
     actions:
       - label: Instructors
-        url: /docs/about
+        url: /instructors
         style: primary
   - section_id: features-two-col
     type: section_grid
