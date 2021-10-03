@@ -3,10 +3,10 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
+    title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE PROFESSORS
     image: images/5.jpg
     content: >-
-      This website provides information about the course events.
+      Get to know the Professors.
     actions:
       - label: Get Started
         url: /docs
