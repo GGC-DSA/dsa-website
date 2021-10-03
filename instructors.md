@@ -13,20 +13,26 @@ sections:
         style: primary
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: images/adolocmihu.jpg
     image_position: left
-    title: A Section With An Image
+    title: Dr. ANCA DOLOC-MIHU
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Dr. Anca Doloc-Mihu a research scientist with more than 10 years of experience as a Postdoctoral Fellow at Emory University
+    actions:
+      - label: View Directory
+        url: https://www.ggc.edu/about-ggc/directory/anca-doloc-mihu
+        style: primary
+  - section_id: text-img
+    type: section_content
+    image: images/kamalkakish.jpg
+    image_position: left
+    title: Dr. KAMAL KAKISH
+    content: >-
+      Dr. Kamal Kakish a chief technologist with more than 25 years of experience in IT strategic planning and leadership.
     actions:
       - label: View Demo
-        url: /docs/getting-started
+        url: https://www.ggc.edu/about-ggc/directory/kamal-kakish
         style: primary
-      - label: Get Started
-        url: /docs/getting-started
-        style: secondary
 
   - section_id: cta
     type: section_cta
