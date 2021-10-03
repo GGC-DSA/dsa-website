@@ -35,6 +35,7 @@ sections:
       - label: About
         url: /docs/about
         style: primary
+        
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
