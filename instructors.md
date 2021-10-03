@@ -19,7 +19,7 @@ sections:
     content: >-
       Dr. Anca Doloc-Mihu a research scientist with more than 10 years of experience as a Postdoctoral Fellow at Emory University
     actions:
-      - label: View Directory
+      - label: Contact
         url: https://www.ggc.edu/about-ggc/directory/anca-doloc-mihu
         style: primary
   - section_id: text-img
@@ -30,7 +30,7 @@ sections:
     content: >-
       Dr. Kamal Kakish a chief technologist with more than 25 years of experience in IT strategic planning and leadership.
     actions:
-      - label: View Demo
+      - label: Contact
         url: https://www.ggc.edu/about-ggc/directory/kamal-kakish
         style: primary
 
