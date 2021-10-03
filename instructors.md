@@ -27,6 +27,7 @@ sections:
       - label: Get Started
         url: /docs/getting-started
         style: secondary
+
   - section_id: cta
     type: section_cta
     title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
@@ -35,7 +36,6 @@ sections:
       - label: About
         url: /docs/about
         style: primary
-        
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
