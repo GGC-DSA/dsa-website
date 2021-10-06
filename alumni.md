@@ -65,7 +65,7 @@ seo:
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
-layout: page
+layout: advanced
 ---
 
 ## Upcoming Hackathons 
