@@ -10,7 +10,7 @@
 6. ~~Add to the Alumni page with pictures and items 
 7. ~~Projects should look like the overview page 
 8. Fix docs button from Libris 
-9. Add Alumni button 
+9. ~~Add Alumni button 
 10. Rename Style guide to hackathon events and redirect to the new hackathon page 
 11. ~~Change Libris home page image to a DSA or GGC related image
 12. Change Homepage get started button to the course description page(create course description page)
