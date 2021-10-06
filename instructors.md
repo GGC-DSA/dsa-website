@@ -7,10 +7,7 @@ sections:
     image: images/5.jpg
     content: >-
       Get to know the Professors.
-    actions:
-      - label: Get Started
-        url: /docs
-        style: primary
+    
   - section_id: text-img
     type: section_content
     image: images/adolocmihu.jpg
