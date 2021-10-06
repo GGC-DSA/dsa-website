@@ -36,22 +36,6 @@ sections:
           - label: Hackathon events
             url: /hackathons
             style: link
-  - section_id: text-img
-    type: section_content
-    image: images/jamstack.svg
-    image_position: left
-    title: A Section With An Image
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    actions:
-      - label: View Demo
-        url: /docs/getting-started
-        style: primary
-      - label: Get Started
-        url: /docs/getting-started
-        style: secondary
   - section_id: text-no-img
     type: section_content
     title: Get to know your Professors
@@ -68,30 +52,6 @@ sections:
       - label: Alumni
         url: /alumni
         style: primary
-  - section_id: features-two-col
-    type: section_grid
-    title: Sample Layouts
-    subtitle: An optional subtitle of the section
-    col_number: two
-    grid_items:
-      - title: Overview
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
-        actions:
-          - label: Learn More
-            url: /overview
-            style: link
-      - title: Showcase
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        actions:
-          - label: Learn More
-            url: /showcase
-            style: link
   - section_id: cta
     type: section_cta
     title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
