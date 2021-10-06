@@ -7,7 +7,7 @@
 3. Events page needs to redirect to actual events page redirects to Libris page currently
 4.~~Projects page to add projects~~
 5. Move graduates to their own page and rename to Alumni 
-6. Add to the Alumni page with pictures and items 
+6. ~~Add to the Alumni page with pictures and items 
 7. ~~Projects should look like the overview page 
 8. Fix docs button from Libris 
 9. Add Alumni button 
