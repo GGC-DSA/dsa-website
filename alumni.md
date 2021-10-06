@@ -10,11 +10,12 @@ sections:
     
   - section_id: text-img
     type: section_content
-    image: images/adolocmihu.jpg
+    image: images/Spring2021Alumni.PNG
     image_position: left
-    title: Dr. ANCA DOLOC-MIHU
+    title: Spring 2021 Alumni
     content: >-
-      Dr. Anca Doloc-Mihu a research scientist with more than 10 years of experience as a Postdoctoral Fellow at Emory University
+      Sarah Price, Daniel Redder, Haley "Lily" Sheppard, (not in photo) Shababa "May" Kamreen, Ruth Whitehouse, Turner Nalley, Brittany Giordano.
+DSA Professors: Dr. Richard Price, Dr. Anca Doloc-Mihu, Dr. Cengiz Gunay
     actions:
       - label: Contact
         url: https://www.ggc.edu/about-ggc/directory/anca-doloc-mihu
