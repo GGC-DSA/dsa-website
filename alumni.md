@@ -17,19 +17,8 @@ sections:
       Sarah Price, Daniel Redder, Haley "Lily" Sheppard, (not in photo) Shababa "May" Kamreen, Ruth Whitehouse, Turner Nalley, Brittany Giordano. 
       DSA Professors: Dr. Richard Price, Dr. Anca Doloc-Mihu, Dr. Cengiz Gunay
     actions:
-      - label: Contact
-        url: https://www.ggc.edu/about-ggc/directory/anca-doloc-mihu
-        style: primary
-  - section_id: text-img
-    type: section_content
-    image: images/kamalkakish.jpg
-    image_position: left
-    title: Dr. KAMAL KAKISH
-    content: >-
-      Dr. Kamal Kakish a chief technologist with more than 25 years of experience in IT strategic planning and leadership.
-    actions:
-      - label: Contact
-        url: https://www.ggc.edu/about-ggc/directory/kamal-kakish
+      - label: Projects
+        url: /projects
         style: primary
 
   - section_id: cta
