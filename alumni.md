@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: ITEC 4230 DATA SCIENCE AND ANALYTICS AlUMNI
+    title: ITEC 4230 DATA SCIENCE AND ANALYTICS ALUMNI
     image: images/5.jpg
     content: >-
       We are proud of our alumni.
