@@ -61,6 +61,13 @@ sections:
       - label: Instructors
         url: /instructors
         style: primary
+   - section_id: text-no-img
+     type: section_content
+     title: Our Alumni
+    actions:
+      - label: Alumni
+        url: /alumni
+        style: primary
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
