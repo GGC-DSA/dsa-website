@@ -61,9 +61,9 @@ sections:
       - label: Instructors
         url: /instructors
         style: primary
-   - section_id: text-no-img
-     type: section_content
-     title: Our Alumni
+  - section_id: text-no-img
+    type: section_content
+    title: Our Alumni
     actions:
       - label: Alumni
         url: /alumni
