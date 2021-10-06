@@ -2,7 +2,7 @@
 
 ## TODO
 
-1. Professor email and contact information on the instructor page(build pending)
+1.~~Professor email and contact information on the instructor page(build pending)
 2. Rename to Showcase to Events 
 3. Events page needs to redirect to actual events page redirects to Libris page currently
 4.~~Projects page to add projects~~
