@@ -87,7 +87,7 @@ This 3-credit hour Data Science and Analytics Capstone Project (ITEC 4230) cours
       <tr>
         <td>ITEC 3900</td>
         <td>Professional Practice and Ethics</td> 
-        <td>(4) Credit Hours</td> 
+        <td>(3) Credit Hours</td> 
         <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5890">Catalog Link</a></td>
       </tr>
     </tbody>
