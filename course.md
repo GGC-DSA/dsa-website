@@ -56,7 +56,7 @@ This 3-credit hour Data Science and Analytics Capstone Project (ITEC 4230) cours
         <td>ITEC 3860</td>
         <td>Software Development I</td> 
         <td>(4) Credit Hours</td> 
-        <td><a href="Course Description">https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/</a></td>
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Catalog Link</a></td>
       </tr>
     </tbody>
     
