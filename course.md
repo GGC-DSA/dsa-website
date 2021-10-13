@@ -128,6 +128,44 @@ This 3-credit hour Data Science and Analytics Capstone Project (ITEC 4230) cours
   </table>
 </div>
 
+## Software Sequence (select two from the following)
+
+
+<div class="responsive-table">
+  <table>
+     
+    <thead>
+      <tr>
+        <th>Course ID</th> 
+        <th>Course Name</th>
+        <th>Credit Hours</th> 
+        <th>Catalog Listing</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>ITEC 3870</td>
+        <td>Software Development II</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2170">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>ITEC 4000</td>
+        <td>Cloud Computing Technologies</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=6276">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>ITEC 4200</td>
+        <td>Advanced Databases</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=439">Catalog Link</a></td>
+      </tr>
+    </tbody>
+    
+  </table>
+</div>
+
 ## Upcoming Hackathons 
 
 
