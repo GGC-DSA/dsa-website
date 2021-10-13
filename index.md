@@ -58,7 +58,7 @@ sections:
     subtitle: Find out what the course is about.
     actions:
       - label: About
-        url: /docs/about
+        url: /docs/course
         style: primary
 seo:
   title: Stackbit Libris Theme
