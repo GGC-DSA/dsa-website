@@ -63,6 +63,38 @@ This 3-credit hour Data Science and Analytics Capstone Project (ITEC 4230) cours
   </table>
 </div>
 
+## Co-Requisite 
+
+
+<div class="responsive-table">
+  <table>
+     
+    <thead>
+      <tr>
+        <th>Course ID</th> 
+        <th>Course Name</th>
+        <th>Credit Hours</th> 
+        <th>Catalog Listing</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>ITEC 4220</td>
+        <td>Advanced Data Analytics</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=6260">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>ITEC 3900</td>
+        <td>Professional Practice and Ethics</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5890">Catalog Link</a></td>
+      </tr>
+    </tbody>
+    
+  </table>
+</div>
+
 ## Upcoming Hackathons 
 
 
