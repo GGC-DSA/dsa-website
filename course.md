@@ -95,6 +95,39 @@ This 3-credit hour Data Science and Analytics Capstone Project (ITEC 4230) cours
   </table>
 </div>
 
+## Select one sequence from the following:
+## Enterprise Sequence (must take both)
+
+
+<div class="responsive-table">
+  <table>
+     
+    <thead>
+      <tr>
+        <th>Course ID</th> 
+        <th>Course Name</th>
+        <th>Credit Hours</th> 
+        <th>Catalog Listing</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>ITEC 4150</td>
+        <td>Enterprise Process Integration</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2175">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>ITEC 4750</td>
+        <td>Enterprise Architecture Design</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=451">Catalog Link</a></td>
+      </tr>
+    </tbody>
+    
+  </table>
+</div>
+
 ## Upcoming Hackathons 
 
 
