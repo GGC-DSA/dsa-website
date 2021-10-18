@@ -129,6 +129,42 @@ layout: page
     
   </table>
 </div>
+## Biology
+
+<div class="responsive-table">
+  <table>
+     
+    <thead>
+      <tr>
+        <th>Course ID</th> 
+        <th>Course Name</th>
+        <th>Credit Hours</th> 
+        <th>Catalog Listing</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>BIOL 1107K</td>
+        <td>Principles of Biology I and Laboratory</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=53">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>BIOL 1108K</td>
+        <td>Principles of Biology II with Laboratory</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=1792">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>BIOL 3400K </td>
+        <td>Cell Biology with Laboratory</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=1807">Catalog Link</a></td>
+      </tr>
+    </tbody>
+    
+  </table>
+</div>
 
 ## School of Business
 ## Accounting
