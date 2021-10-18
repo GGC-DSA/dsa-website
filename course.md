@@ -166,4 +166,4 @@ This 3-credit hour Data Science and Analytics Capstone Project (ITEC 4230) cours
 </div>
 Lorem ipsum dolor sit amet.
 
-[button url="http://www.google.com"]
+{% include button.html url="http://www.google.com" %}
