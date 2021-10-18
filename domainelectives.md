@@ -295,22 +295,22 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>ITEC 3870</td>
-        <td>Software Development II</td> 
-        <td>(4) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2170">Catalog Link</a></td>
+        <td>ACCT 2101</td>
+        <td>Intro to Financial Accounting  or</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=1755">Catalog Link</a></td>
       </tr>
       <tr>
-        <td>ITEC 4000</td>
-        <td>Cloud Computing Technologies</td> 
-        <td>(4) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=6276">Catalog Link</a></td>
+        <td>ECON 2106</td>
+        <td>Principles of Microeconomics or</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=1913">Catalog Link</a></td>
       </tr>
       <tr>
-        <td>ITEC 4200</td>
-        <td>Advanced Databases</td> 
-        <td>(4) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=439">Catalog Link</a></td>
+        <td>FINA 3000</td>
+        <td>Financial Management I</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=317">Catalog Link</a></td>
       </tr>
     </tbody>
     
@@ -331,22 +331,34 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>ITEC 3870</td>
-        <td>Software Development II</td> 
-        <td>(4) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2170">Catalog Link</a></td>
+        <td>ECON 2105</td>
+        <td>Principles of Macroeconomics or</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=1912">Catalog Link</a></td>
       </tr>
       <tr>
-        <td>ITEC 4000</td>
-        <td>Cloud Computing Technologies</td> 
-        <td>(4) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=6276">Catalog Link</a></td>
+        <td>ECON 2106</td>
+        <td>Principles of Microeconomics</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=1913">Catalog Link</a></td>
       </tr>
       <tr>
-        <td>ITEC 4200</td>
-        <td>Advanced Databases</td> 
-        <td>(4) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=439">Catalog Link</a></td>
+        <td>BUSA 3000</td>
+        <td>Quantitative Analysis for Business</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href=https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=1836">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>ECON 4120</td>
+        <td>Introduction to Econometrics or</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=183">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>BUSA 4650</td>
+        <td>Business Research Methods</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=6341">Catalog Link</a></td>
       </tr>
     </tbody>
     
