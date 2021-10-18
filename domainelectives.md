@@ -346,7 +346,7 @@ layout: page
         <td>BUSA 3000</td>
         <td>Quantitative Analysis for Business</td> 
         <td>(3) Credit Hours</td> 
-        <td><a href=https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=1836">Catalog Link</a></td>
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=1836">Catalog Link</a></td>
       </tr>
       <tr>
         <td>ECON 4120</td>
