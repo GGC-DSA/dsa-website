@@ -54,7 +54,7 @@ layout: page
         <td>ITEC 4400 </td>
         <td>Special Topics in Information Technology</td> 
         <td>(1-4) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Catalog Link</a></td>
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=446">Catalog Link</a></td>
       </tr>
     </tbody>
     <tbody>
@@ -62,7 +62,7 @@ layout: page
         <td>ITEC 4900</td>
         <td>Information Technology Internship</td> 
         <td>(3) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Catalog Link</a></td>
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2193">Catalog Link</a></td>
       </tr>
     </tbody>
     <tbody>
@@ -70,7 +70,7 @@ layout: page
         <td>MATH 2600</td>
         <td>Mathematical Modeling</td> 
         <td>(3) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Catalog Link</a></td>
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=483">Catalog Link</a></td>
       </tr>
     </tbody>
     <tbody>
@@ -78,7 +78,7 @@ layout: page
         <td>STEC 4500</td>
         <td>Undergraduate Research Project</td> 
         <td>(3) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Catalog Link</a></td>
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=20&coid=4277">Catalog Link</a></td>
       </tr>
     </tbody>
     <tbody>
@@ -86,7 +86,7 @@ layout: page
         <td>STEC 4800</td>
         <td>Internship in Service Learning</td> 
         <td>(3) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Catalog Link</a></td>
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2449">Catalog Link</a></td>
       </tr>
     </tbody>
   </table>
