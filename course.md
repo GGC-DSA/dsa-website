@@ -165,3 +165,7 @@ This 3-credit hour Data Science and Analytics Capstone Project (ITEC 4230) cours
     
   </table>
 </div>
+    actions:
+      - label: Domain Electives
+        url: /domainelectives
+        style: primary
