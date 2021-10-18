@@ -164,6 +164,25 @@ This 3-credit hour Data Science and Analytics Capstone Project (ITEC 4230) cours
     
   </table>
 </div>
-Lorem ipsum dolor sit amet.
+## Domain Electives - 9 Credit Hours
+## Select one category to fulfill Domain Electives in other Required Courses
 
-{% include button.html url="http://www.google.com" %}
+
+<div class="responsive-table">
+  <table>
+     
+    <thead>
+      <tr>
+        <th>Description</th> 
+        <th>Current Electives</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Click the link to view current Domain Electives</td>
+        <td><a href="https://catalog.ggc.edu/preview_degree_planner.php?catoid=37&poid=821&print">Page Link</a></td>
+      </tr>
+    </tbody>
+    
+  </table>
+</div>
