@@ -184,16 +184,22 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>ITEC 4150</td>
-        <td>Enterprise Process Integration</td> 
-        <td>(4) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2175">Catalog Link</a></td>
+        <td>ACCT 2101</td>
+        <td>Introduction to Financial Accounting</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=1755">Catalog Link</a></td>
       </tr>
       <tr>
-        <td>ITEC 4750</td>
-        <td>Enterprise Architecture Design</td> 
-        <td>(4) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=451">Catalog Link</a></td>
+        <td>ACCT 2102</td>
+        <td>Introduction to Managerial Accounting</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="http://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=18&">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>ACCT 3400</td>
+        <td>Accounting Information Systems</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=20&coid=4629">Catalog Link</a></td>
       </tr>
     </tbody>
     
