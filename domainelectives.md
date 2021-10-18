@@ -51,13 +51,44 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>ITEC 3860</td>
-        <td>Software Development I</td> 
-        <td>(4) Credit Hours</td> 
+        <td>ITEC 4400 </td>
+        <td>Special Topics in Information Technology</td> 
+        <td>(1-4) Credit Hours</td> 
         <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Catalog Link</a></td>
       </tr>
     </tbody>
-    
+    <tbody>
+      <tr>
+        <td>ITEC 4900</td>
+        <td>Information Technology Internship</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Catalog Link</a></td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>MATH 2600</td>
+        <td>Mathematical Modeling</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Catalog Link</a></td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>STEC 4500</td>
+        <td>Undergraduate Research Project</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Catalog Link</a></td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>STEC 4800</td>
+        <td>Internship in Service Learning</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Catalog Link</a></td>
+      </tr>
+    </tbody>
   </table>
 </div>
 
