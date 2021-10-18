@@ -222,22 +222,58 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>ITEC 3870</td>
-        <td>Software Development II</td> 
-        <td>(4) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2170">Catalog Link</a></td>
+        <td>ACCT 2101</td>
+        <td>Intro to Financial Accounting  or</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=1755">Catalog Link</a></td>
       </tr>
       <tr>
-        <td>ITEC 4000</td>
-        <td>Cloud Computing Technologies</td> 
-        <td>(4) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=6276">Catalog Link</a></td>
+        <td>ACCT 2102</td>
+        <td>Intro to Managerial Accounting</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="http://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=18&">Catalog Link</a></td>
       </tr>
       <tr>
-        <td>ITEC 4200</td>
-        <td>Advanced Databases</td> 
-        <td>(4) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=439">Catalog Link</a></td>
+        <td>BUSA 2105</td>
+        <td>Communications in the Business Environment or</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="http://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=1834&">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>BUSA 2106</td>
+        <td>Legal Environment of Business</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="http://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=1835&">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>ECON 2105</td>
+        <td>Principles of Macroeconomics</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=1912">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>ECON 2106</td>
+        <td>Principles of Microeconomics or</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=1913">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>MKTG 3000</td>
+        <td>Principles of Marketing</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2262">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>FINA 3000</td>
+        <td>Financial Management I</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=317">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>BUSA 3200</td>
+        <td>Global Business</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=1838">Catalog Link</a></td>
       </tr>
     </tbody>
     
