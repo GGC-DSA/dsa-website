@@ -108,16 +108,22 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>ITEC 4220</td>
-        <td>Advanced Data Analytics</td> 
-        <td>(4) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=6260">Catalog Link</a></td>
+        <td>MATH 2600</td>
+        <td>Mathematical Modeling</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=483">Catalog Link</a></td>
       </tr>
       <tr>
-        <td>ITEC 3900</td>
-        <td>Professional Practice and Ethics</td> 
+        <td>MATH 3000</td>
+        <td>Applied Statistics</td> 
         <td>(3) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5890">Catalog Link</a></td>
+        <td><a href="http://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=484&">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>MATH 3400</td>
+        <td>Applied Linear Algebra</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2231">Catalog Link</a></td>
       </tr>
     </tbody>
     
