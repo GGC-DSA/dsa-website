@@ -35,7 +35,7 @@ seo:
 layout: page
 ---
 
-## Prerequisite 
+## Course Name
 
 
 <div class="responsive-table">
@@ -61,7 +61,7 @@ layout: page
   </table>
 </div>
 
-## Co-Requisite 
+## Mathematics
 
 
 <div class="responsive-table">
@@ -93,8 +93,9 @@ layout: page
   </table>
 </div>
 
-## Select one sequence from the following:
-## Enterprise Sequence (must take both)
+## School of Business
+## Accounting
+## SBA will give prerequisite overrides for students in the program who completed ITEC 2201, ACCT 2101 and ACCT 2102
 
 
 <div class="responsive-table">
@@ -126,8 +127,8 @@ layout: page
   </table>
 </div>
 
-## Software Sequence (select two from the following)
-
+## General Business
+## SBA will give prerequisite overrides for students in the program who completed BUSA 2105 or BUSA 2106
 
 <div class="responsive-table">
   <table>
@@ -163,25 +164,113 @@ layout: page
     
   </table>
 </div>
-## Domain Electives - 9 Credit Hours
-## Select one category to fulfill Domain Electives in other Required Courses
 
+## FINANCE
 
 <div class="responsive-table">
   <table>
      
     <thead>
       <tr>
-        <th>Description</th> 
-        <th>Current Electives</th>
+        <th>Course ID</th> 
+        <th>Course Name</th>
+        <th>Credit Hours</th> 
+        <th>Catalog Listing</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Click the link to view current Domain Electives</td>
-        <td><a href="https://catalog.ggc.edu/preview_degree_planner.php?catoid=37&poid=821&print">Page Link</a></td>
+        <td>ITEC 3870</td>
+        <td>Software Development II</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2170">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>ITEC 4000</td>
+        <td>Cloud Computing Technologies</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=6276">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>ITEC 4200</td>
+        <td>Advanced Databases</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=439">Catalog Link</a></td>
       </tr>
     </tbody>
     
   </table>
 </div>
+## ECONOMICS
+## SBA will give prerequisite overrides for students in the program who completed BUSA 3000 and ECON 2105 or ECON 2106
+<div class="responsive-table">
+  <table>
+     
+    <thead>
+      <tr>
+        <th>Course ID</th> 
+        <th>Course Name</th>
+        <th>Credit Hours</th> 
+        <th>Catalog Listing</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>ITEC 3870</td>
+        <td>Software Development II</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2170">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>ITEC 4000</td>
+        <td>Cloud Computing Technologies</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=6276">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>ITEC 4200</td>
+        <td>Advanced Databases</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=439">Catalog Link</a></td>
+      </tr>
+    </tbody>
+    
+  </table>
+</div>
+## INFORMATION TECHNOLOGY
+## Systems and Security (Select 3)
+<div class="responsive-table">
+  <table>
+     
+    <thead>
+      <tr>
+        <th>Course ID</th> 
+        <th>Course Name</th>
+        <th>Credit Hours</th> 
+        <th>Catalog Listing</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>ITEC 3870</td>
+        <td>Software Development II</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2170">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>ITEC 4000</td>
+        <td>Cloud Computing Technologies</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=6276">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>ITEC 4200</td>
+        <td>Advanced Databases</td> 
+        <td>(4) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=439">Catalog Link</a></td>
+      </tr>
+    </tbody>
+    
+  </table>
+</div>
+
