@@ -379,22 +379,28 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>ITEC 3870</td>
-        <td>Software Development II</td> 
-        <td>(4) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2170">Catalog Link</a></td>
+        <td>ITEC 3300</td>
+        <td>Information Security</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2163">Catalog Link</a></td>
       </tr>
       <tr>
-        <td>ITEC 4000</td>
-        <td>Cloud Computing Technologies</td> 
-        <td>(4) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=6276">Catalog Link</a></td>
+        <td>ITEC 4310</td>
+        <td>Operating Systems Security</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2181">Catalog Link</a></td>
       </tr>
       <tr>
-        <td>ITEC 4200</td>
-        <td>Advanced Databases</td> 
-        <td>(4) Credit Hours</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=439">Catalog Link</a></td>
+        <td>ITEC 4320</td>
+        <td>Internet Security</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=444">Catalog Link</a></td>
+      </tr>
+      <tr>
+        <td>ITEC 4810</td>
+        <td>Information Technology Project I</td> 
+        <td>(3) Credit Hours</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=452">Catalog Link</a></td>
       </tr>
     </tbody>
     
