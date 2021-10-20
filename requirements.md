@@ -22,7 +22,6 @@ sections:
   - section_id: cta
     type: section_cta
     title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
-    subtitle: Find out what the course is about.
     actions:
 seo:
   title: Stackbit Libris Theme
