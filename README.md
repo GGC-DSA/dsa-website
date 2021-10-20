@@ -3,8 +3,8 @@
 ## TODO
 
 1.~~Professor email and contact information on the instructor page(build pending)
-2. Rename to Showcase to Events 
-3. Events page needs to redirect to actual events page redirects to Libris page currently
+2. ~~Rename to Showcase to Events 
+3. ~~Events page needs to redirect to actual events page redirects to Libris page currently~~
 4.~~Projects page to add projects~~
 5. ~~Move graduates to their own page and rename to Alumni 
 6. ~~Add to the Alumni page with pictures and items 
@@ -17,6 +17,8 @@
 13. ~~Call to action block either find page to redirect to about page
 14. ~~Fix blog button to say coming soon. Reminder to connect to the Blog DSA project~~
 15. Create Textbooks Page and reading requirements
+16. link textbooks page on menu for easy access
+17. Update menu with events, course requirements, 
 
 <img src="https://themes.stackbit.com/images/libris-demo-1024x768.png" width="600">
 
