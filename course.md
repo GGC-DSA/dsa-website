@@ -1,6 +1,6 @@
 ---
 title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
-subtitle: Find out what the course is about.
+subtitle: Find out what the course requirements are before taking the class.
 image: images/5.jpg
 seo:
   title: Theme Style Guide
@@ -35,7 +35,6 @@ seo:
 layout: page
 ---
 
-This 3-credit hour Data Science and Analytics Capstone Project (ITEC 4230) course provides practical learning experiences and skills in Data Science and Analytics by engaging in a real-world DSA initiative and applying ideas from the entire DSA curricula to a substantial project of interest in a business, government agency, or other organization. Upon completion of this course students will be able to: (1) Identify and provide a solution to a data-intensive problem in a focus domain; (2) Manage a data analytics life-cycle with large-scale data stores; (3) Apply relevant data processing algorithms; (4) Apply visualization solutions to generate reports and presentations and communicate these in the proper domain language to technical and non-technical stakeholders of project; and (5) Design a data governance solution that considers and satisfies requirements for being secure, ethical, and minimizing risk.
 ## Prerequisite 
 
 
@@ -95,7 +94,7 @@ This 3-credit hour Data Science and Analytics Capstone Project (ITEC 4230) cours
 </div>
 
 ## Select one sequence from the following:
-## Enterprise Sequence (must take both)
+## 1. Enterprise Sequence (must take both)
 
 
 <div class="responsive-table">
@@ -127,7 +126,7 @@ This 3-credit hour Data Science and Analytics Capstone Project (ITEC 4230) cours
   </table>
 </div>
 
-## Software Sequence (select two from the following)
+## 2. Software Sequence (select two from the following)
 
 
 <div class="responsive-table">
@@ -164,25 +163,4 @@ This 3-credit hour Data Science and Analytics Capstone Project (ITEC 4230) cours
     
   </table>
 </div>
-## Domain Electives - 9 Credit Hours
-## Select one category to fulfill Domain Electives in other Required Courses
 
-
-<div class="responsive-table">
-  <table>
-     
-    <thead>
-      <tr>
-        <th>Description</th> 
-        <th>Current Electives</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Click the link to view current Domain Electives</td>
-        <td><a href="https://dsa-website.netlify.app/domainelectives/">Page Link</a></td>
-      </tr>
-    </tbody>
-    
-  </table>
-</div>
