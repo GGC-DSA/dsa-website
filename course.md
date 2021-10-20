@@ -53,7 +53,7 @@ layout: page
       <tr>
         <td>ITEC 3860</td>
         <td>Software Development I</td> 
-        <td>(4) Credit Hours</td> 
+        <td>4</td> 
         <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Catalog Link</a></td>
       </tr>
     </tbody>
@@ -79,13 +79,13 @@ layout: page
       <tr>
         <td>ITEC 4220</td>
         <td>Advanced Data Analytics</td> 
-        <td>(4) Credit Hours</td> 
+        <td>4</td> 
         <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=6260">Catalog Link</a></td>
       </tr>
       <tr>
         <td>ITEC 3900</td>
         <td>Professional Practice and Ethics</td> 
-        <td>(3) Credit Hours</td> 
+        <td>3</td> 
         <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5890">Catalog Link</a></td>
       </tr>
     </tbody>
@@ -94,7 +94,7 @@ layout: page
 </div>
 
 ## Select one sequence from the following:
-## 1. Enterprise Sequence (must take both)
+### 1. Enterprise Sequence (must take both)
 
 
 <div class="responsive-table">
@@ -112,13 +112,13 @@ layout: page
       <tr>
         <td>ITEC 4150</td>
         <td>Enterprise Process Integration</td> 
-        <td>(4) Credit Hours</td> 
+        <td>4</td> 
         <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2175">Catalog Link</a></td>
       </tr>
       <tr>
         <td>ITEC 4750</td>
         <td>Enterprise Architecture Design</td> 
-        <td>(4) Credit Hours</td> 
+        <td>4</td> 
         <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=451">Catalog Link</a></td>
       </tr>
     </tbody>
@@ -126,7 +126,7 @@ layout: page
   </table>
 </div>
 
-## 2. Software Sequence (select two from the following)
+### 2. Software Sequence (select two from the following)
 
 
 <div class="responsive-table">
@@ -144,19 +144,19 @@ layout: page
       <tr>
         <td>ITEC 3870</td>
         <td>Software Development II</td> 
-        <td>(4) Credit Hours</td> 
+        <td>4</td> 
         <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2170">Catalog Link</a></td>
       </tr>
       <tr>
         <td>ITEC 4000</td>
         <td>Cloud Computing Technologies</td> 
-        <td>(4) Credit Hours</td> 
+        <td>4</td> 
         <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=6276">Catalog Link</a></td>
       </tr>
       <tr>
         <td>ITEC 4200</td>
         <td>Advanced Databases</td> 
-        <td>(4) Credit Hours</td> 
+        <td>4</td> 
         <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=439">Catalog Link</a></td>
       </tr>
     </tbody>
