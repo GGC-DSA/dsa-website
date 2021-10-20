@@ -38,7 +38,7 @@ layout: page
  * **Note that domain electives can be added upon request. Talk with your advisor and contact the DSA Committee for approval.**
  * More domain electives might be added in the future.
  
-## Course Name
+## General Group
 
 
 <div class="responsive-table">
