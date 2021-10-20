@@ -1,6 +1,6 @@
 ---
-title: Domain Electives - 9 Credit Hours
-subtitle: Select one category to fulfill Domain Electives in other Required Courses
+title: Domain Electives 
+subtitle: Required 9 credit hours
 image: images/5.jpg
 seo:
   title: Theme Style Guide
@@ -34,7 +34,10 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
+## Select one category to fulfill Domain Electives.
+ * **Note that domain electives can be added upon request. Talk with your advisor and contact the DSA Committee for approval.**
+ * More domain electives might be added in the future.
+ 
 ## Course Name
 
 
