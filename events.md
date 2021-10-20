@@ -8,7 +8,7 @@ sections:
     content: DSA upcoming and past events
   - section_id: showcase
     type: section_grid
-    col_number: three
+    col_number: two
     grid_items: 
       - title: Link
         title_url: 'https://www.youtube.com/watch?v=wqowUFtmKBE&ab_channel=AncaDoloc-Mihu'
