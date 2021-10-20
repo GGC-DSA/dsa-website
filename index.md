@@ -19,7 +19,7 @@ sections:
         content: >-
           Here are our main events. 
         actions:
-          - label: Events
+          - label: Our Events
             url: /events
             style: link
       - title: Projects
