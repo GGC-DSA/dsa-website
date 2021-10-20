@@ -44,8 +44,8 @@
                 ]
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Hackathons",
+                "url": "/hackathons",
                 "style": "link",
                 "has_subnav": false
             },
