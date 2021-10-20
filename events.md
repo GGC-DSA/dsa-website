@@ -3,7 +3,7 @@ title: Showcase
 sections:
   - section_id: hero
     type: section_hero
-    title: My Showcase
+    title: DSA Events
     image: images/5.jpg
     content: DSA upcoming and past events
   - section_id: showcase
