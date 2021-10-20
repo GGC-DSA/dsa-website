@@ -19,8 +19,8 @@ sections:
         content: >-
           Here are our main events. 
         actions:
-          - label: Get Started
-            url: /docs
+          - label: Events
+            url: /events
             style: link
       - title: Projects
         content: >-
