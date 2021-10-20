@@ -3,63 +3,27 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
+    title: ITEC 4230 General Requirements 
     image: images/5.jpg
     content: >-
-      This website provides information about the course events.
-    actions:
-      - label: Get Started
-        url: /docs
-        style: primary
-  - section_id: features
-    type: section_grid
-    col_number: three
-    grid_items:
-      - title: Events
-        content: >-
-          Here are our main events. 
-        actions:
-          - label: Get Started
-            url: /docs
-            style: link
-      - title: Projects
-        content: >-
-           Projects are team-based, hands on involving DSA skills learned throughout several data science and analytics classes. Projects are based on real world DSA field examples. Here are the projects build by previous students.
-        actions:
-          - label: Projects
-            url: /projects
-            style: link
-      - title: Hackathons
-        content: >-
-          Here is the list of DSA hackathons.
-        actions:
-          - label: Hackathon events
-            url: /hackathons
-            style: link
+      
   - section_id: text-no-img
     type: section_content
-    title: Get to know your Professors
+    title: General requirements
     content: >-
-      Contact and information about your professors.
+      This 3-credit hour Data Science and Analytics Capstone Project (ITEC 4230) course provides practical learning experiences and skills in Data Science and Analytics by engaging in a real-world DSA initiative and applying ideas from the entire DSA curricula to a substantial project of interest in a business, government agency, or other organization. Upon completion of this course students will be able to: (1) Identify and provide a solution to a data-intensive problem in a focus domain; (2) Manage a data analytics life-cycle with large-scale data stores; (3) Apply relevant data processing algorithms; (4) Apply visualization solutions to generate reports and presentations and communicate these in the proper domain language to technical and non-technical stakeholders of project; and (5) Design a data governance solution that considers and satisfies requirements for being secure, ethical, and minimizing risk.
     actions:
-      - label: Instructors
-        url: /instructors
+      - label: Required Courses
+        url: /course
         style: primary
-  - section_id: text-no-img
-    type: section_content
-    title: Our Alumni
-    actions:
-      - label: Alumni
-        url: /alumni
+      - label: Domain Electives
+        url: /domainelectives
         style: primary
   - section_id: cta
     type: section_cta
     title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
     subtitle: Find out what the course is about.
     actions:
-      - label: About
-        url: /course
-        style: primary
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
