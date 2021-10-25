@@ -56,6 +56,12 @@
                 "has_subnav": false
             },
             {
+                "label": "Events",
+                "url": "/events",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
                 "label": "GitHub",
                 "url": "https://github.com/",
                 "style": "primary",
