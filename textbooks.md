@@ -1,6 +1,6 @@
 ---
 title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
-subtitle: Find out what the course requirements are before taking the class.
+subtitle: Find out what the textbooks and reading requirements are before taking the class.
 image: images/5.jpg
 seo:
   title: Theme Style Guide
@@ -35,7 +35,7 @@ seo:
 layout: page
 ---
 
-## Prerequisite 
+## Textbooks
 
 
 <div class="responsive-table">
@@ -43,58 +43,56 @@ layout: page
      
     <thead>
       <tr>
-        <th>Course ID</th> 
-        <th>Course Name</th>
-        <th>Credit Hours</th> 
-        <th>Catalog Listing</th>
+        <th>Textbook Title</th> 
+        <th>Author</th>
+        <th>Required</th> 
+        <th>Bookstore Listing</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>ITEC 3860</td>
-        <td>Software Development I</td> 
-        <td>4</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Catalog Link</a></td>
+        <td>The Automatic Customer</td>
+        <td>John Warrillow</td> 
+        <td>Yes</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Book Link</a></td>
       </tr>
     </tbody>
     
   </table>
 </div>
 
-## Co-Requisite 
-
+## Reading Requirements
 
 <div class="responsive-table">
   <table>
      
     <thead>
       <tr>
-        <th>Course ID</th> 
-        <th>Course Name</th>
-        <th>Credit Hours</th> 
-        <th>Catalog Listing</th>
+        <th>Textbook Title</th> 
+        <th>Author</th>
+        <th>Required</th> 
+        <th>Bookstore Listing</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>ITEC 4220</td>
-        <td>Advanced Data Analytics</td> 
-        <td>4</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=6260">Catalog Link</a></td>
+        <td>The Automatic Customer</td>
+        <td>John Warrillow</td> 
+        <td>Yes</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Book Link</a></td>
       </tr>
       <tr>
-        <td>ITEC 3900</td>
-        <td>Professional Practice and Ethics</td> 
-        <td>3</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5890">Catalog Link</a></td>
+        <td>The Automatic Customer</td>
+        <td>John Warrillow</td> 
+        <td>Yes</td> 
+        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Book Link</a></td>
       </tr>
     </tbody>
     
   </table>
 </div>
 
-## Select one sequence from the following:
-### 1. Enterprise Sequence (must take both)
+## Tools
 
 
 <div class="responsive-table">
@@ -102,24 +100,18 @@ layout: page
      
     <thead>
       <tr>
-        <th>Course ID</th> 
-        <th>Course Name</th>
-        <th>Credit Hours</th> 
-        <th>Catalog Listing</th>
+        <th>Tool Name</th> 
+        <th>Download Link</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>ITEC 4150</td>
-        <td>Enterprise Process Integration</td> 
-        <td>4</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2175">Catalog Link</a></td>
+        <td>iTunes</td>
+        <td><a href="https://www.apple.com/itunes/">Download Link</a></td>
       </tr>
       <tr>
-        <td>ITEC 4750</td>
-        <td>Enterprise Architecture Design</td> 
-        <td>4</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=451">Catalog Link</a></td>
+        <td>Bear</td>
+        <td><a href="https://bear.app/">Download Link</a></td>
       </tr>
     </tbody>
     
