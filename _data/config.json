@@ -26,19 +26,19 @@
                 "has_subnav": false
             },
             {
-                "label": "Sample Pages",
+                "label": "Requirements",
                 "url": "#",
                 "style": "link",
                 "has_subnav": true,
                 "subnav_links": [
                     {
-                        "label": "Overview",
-                        "url": "/overview",
+                        "label": "Required Courses",
+                        "url": "/course",
                         "style": "link"
                     },
                     {
-                        "label": "Showcase",
-                        "url": "/showcase",
+                        "label": "Domain Electives",
+                        "url": "/domainelectives",
                         "style": "link"
                     }
                 ]
@@ -46,6 +46,12 @@
             {
                 "label": "Hackathons",
                 "url": "/hackathons",
+                "style": "link",
+                "has_subnav": false
+            },
+            {
+                "label": "Textbooks",
+                "url": "/textbooks",
                 "style": "link",
                 "has_subnav": false
             },
