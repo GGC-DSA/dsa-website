@@ -68,7 +68,7 @@ layout: page
      
     <thead>
       <tr>
-        <th>Textbook Title</th> 
+        <th>Article Title</th> 
         <th>Author</th>
         <th>Required</th> 
         <th>Bookstore Listing</th>
