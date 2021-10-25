@@ -76,23 +76,23 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>The Automatic Customer</td>
-        <td>John Warrillow</td> 
+        <td>Introducing M1 Pro and M1 Max</td>
+        <td>Apple</td> 
         <td>Yes</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Book Link</a></td>
+        <td><a href="https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/">Book Link</a></td>
       </tr>
       <tr>
-        <td>The Automatic Customer</td>
-        <td>John Warrillow</td> 
+        <td>Liquidity/Value Problems & Basic Chain Movements</td>
+        <td>Defi Education</td> 
         <td>Yes</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Book Link</a></td>
+        <td><a href="https://defieducation.substack.com/p/liquidityvalue-problems-and-basic">Book Link</a></td>
       </tr>
     </tbody>
     
   </table>
 </div>
 
-## Tools
+## Software Tools
 
 
 <div class="responsive-table">
@@ -118,7 +118,7 @@ layout: page
   </table>
 </div>
 
-### 2. Software Sequence (select two from the following)
+### 2. Hardware Tools
 
 
 <div class="responsive-table">
@@ -126,30 +126,21 @@ layout: page
      
     <thead>
       <tr>
-        <th>Course ID</th> 
-        <th>Course Name</th>
-        <th>Credit Hours</th> 
-        <th>Catalog Listing</th>
+        <th>Hardware Name</th> 
+        <th>Required</th>
+        <th>School Store Link</th> 
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>ITEC 3870</td>
-        <td>Software Development II</td> 
-        <td>4</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=8&coid=2170">Catalog Link</a></td>
+        <td>Mac Computer</td>
+        <td>Yes</td> 
+        <td><a href="https://www.apple.com/mac/">Store Link</a></td>
       </tr>
       <tr>
-        <td>ITEC 4000</td>
-        <td>Cloud Computing Technologies</td> 
-        <td>4</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=6276">Catalog Link</a></td>
-      </tr>
-      <tr>
-        <td>ITEC 4200</td>
-        <td>Advanced Databases</td> 
-        <td>4</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=1&coid=439">Catalog Link</a></td>
+        <td>Windows Computer</td>
+        <td>Yes</td> 
+        <td><a href="https://www.razer.com/pc">Store Link</a></td>
       </tr>
     </tbody>
     
