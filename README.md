@@ -11,14 +11,14 @@
 7. ~~Projects should look like the overview page 
 8. Fix docs button from Libris 
 9. ~~Add Alumni button 
-10. Rename Style guide to hackathon events and redirect to the new hackathon page 
+10. ~~Rename Style guide to hackathon events and redirect to the new hackathon page 
 11. ~~Change Libris home page image to a DSA or GGC related image
 12.  ~~Change Homepage get started button to the course description page(create course description page)
 13. ~~Call to action block either find page to redirect to about page
 14. ~~Fix blog button to say coming soon. Reminder to connect to the Blog DSA project~~
 15. Create Textbooks Page and reading requirements
-16. link textbooks page on menu for easy access
-17. Update menu with events, course requirements, 
+16. ~~link textbooks page on menu for easy access
+17. ~~Update menu with events, course requirements, 
 18. Remove stackbit watermark/signature 
 
 <img src="https://themes.stackbit.com/images/libris-demo-1024x768.png" width="600">
