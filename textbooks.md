@@ -53,8 +53,38 @@ layout: page
       <tr>
         <td>Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition</td>
         <td>Martin Kleppmann</td> 
-        <td>ISBN-13: 978-1449373320 </td> 
+        <td>ISBN-13: 978-1449373320</td> 
         <td><a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321">Amazon Link</a></td>
+      </tr>
+      <tr>
+        <td>The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists </td>
+        <td>Carl Shan et al.</td> 
+        <td>ISBN-13: 978-0692434871</td> 
+        <td><a href="https://www.amazon.com/Data-Science-Handbook-Insights-Scientists/dp/0692434879">Amazon Link</a></td>
+      </tr>
+      <tr>
+        <td>Storytelling with Data: A Data Visualization Guide for Business Professionals 1st Edition</td>
+        <td>Cole Nussbaumer Knaflic</td> 
+        <td>ISBN-13: 978-1119002253</td> 
+        <td><a href="https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257">Amazon Link</a></td>
+      </tr>
+      <tr>
+        <td>Data Science and Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data 1st Edition</td>
+        <td>EMC Education Services</td> 
+        <td>ISBN-13: 978-1118876138</td> 
+        <td><a href="https://www.amazon.com/Data-Science-Big-Analytics-Discovering/dp/111887613X">Amazon Link</a></td>
+      </tr>
+      <tr>
+        <td>Build a Career in Data Science 1st Edition</td>
+        <td>Emily Robinson et al.</td> 
+        <td>ISBN-13: 978-1617296246</td> 
+        <td><a href="https://www.amazon.com/Build-Career-Science-Jacqueline-Nolis/dp/1617296244">Amazon Link</a></td>
+      </tr>
+      <tr>
+        <td>Data Science: A Comprehensive Beginner’s Guide to Learn the Realms of Data Science</td>
+        <td>Liam Damien</td> 
+        <td>ISBN-13: 978-1713149798</td> 
+        <td><a href="https://www.amazon.com/Data-Science-Comprehensive-Beginners-Realms/dp/1713149796">Amazon Link</a></td>
       </tr>
     </tbody>
     
