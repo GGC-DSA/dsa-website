@@ -19,6 +19,9 @@ sections:
       - label: Domain Electives
         url: /domainelectives
         style: primary
+      - label: Textbooks
+        url: /textbooks
+        style: primary
   - section_id: cta
     type: section_cta
     title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
