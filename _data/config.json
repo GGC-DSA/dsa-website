@@ -14,14 +14,14 @@
                 "has_subnav": false
             },
             {
-                "label": "Docs",
-                "url": "/docs",
+                "label": "Blog",
+                "url": "/blog",
                 "style": "link",
                 "has_subnav": false
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Textbooks",
+                "url": "/textbooks",
                 "style": "link",
                 "has_subnav": false
             },
@@ -46,12 +46,6 @@
             {
                 "label": "Hackathons",
                 "url": "/hackathons",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "label": "Textbooks",
-                "url": "/textbooks",
                 "style": "link",
                 "has_subnav": false
             },
