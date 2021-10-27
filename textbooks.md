@@ -91,7 +91,7 @@ layout: page
   </table>
 </div>
 
-## Reading Requirements
+## Suggested Articles
 
 <div class="responsive-table">
   <table>
@@ -100,22 +100,24 @@ layout: page
       <tr>
         <th>Article Title</th> 
         <th>Author</th>
-        <th>Required</th> 
-        <th>Bookstore Listing</th>
+        <th>Link</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Introducing M1 Pro and M1 Max</td>
-        <td>Apple</td> 
-        <td>Yes</td> 
-        <td><a href="https://www.apple.com/newsroom/2021/10/introducing-m1-pro-and-m1-max-the-most-powerful-chips-apple-has-ever-built/">Book Link</a></td>
+        <td>Why becoming a data scientist might be easier than you think</td>
+        <td>Derrick Harris</td> 
+        <td><a href="https://gigaom.com/2012/10/14/why-becoming-a-data-scientist-might-be-easier-than-you-think/">Link</a></td>
       </tr>
       <tr>
-        <td>Liquidity/Value Problems & Basic Chain Movements</td>
-        <td>Defi Education</td> 
-        <td>Yes</td> 
-        <td><a href="https://defieducation.substack.com/p/liquidityvalue-problems-and-basic">Book Link</a></td>
+        <td>What Data Analytics Will Look Like in 2021 - And How to Capitalize On It</td>
+        <td>Guest Contributors</td> 
+        <td><a href="https://www.nasdaq.com/articles/what-data-analytics-will-look-like-in-2021-and-how-to-capitalize-on-it-2020-11-19">Link</a></td>
+      </tr>
+      <tr>
+        <td>Is science still a man’s world?</td>
+        <td>Aya Tanikawa</td> 
+        <td><a href="https://blog.datawrapper.de/female-researchers-science-gender-gap/">Link</a></td>
       </tr>
     </tbody>
     
@@ -147,33 +149,3 @@ layout: page
     
   </table>
 </div>
-
-### 2. Hardware Tools
-
-
-<div class="responsive-table">
-  <table>
-     
-    <thead>
-      <tr>
-        <th>Hardware Name</th> 
-        <th>Required</th>
-        <th>School Store Link</th> 
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Mac Computer</td>
-        <td>Yes</td> 
-        <td><a href="https://www.apple.com/mac/">Store Link</a></td>
-      </tr>
-      <tr>
-        <td>Windows Computer</td>
-        <td>Yes</td> 
-        <td><a href="https://www.razer.com/pc">Store Link</a></td>
-      </tr>
-    </tbody>
-    
-  </table>
-</div>
-
