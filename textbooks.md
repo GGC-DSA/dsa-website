@@ -35,7 +35,7 @@ seo:
 layout: page
 ---
 
-## Textbooks
+## Suggested Textbooks
 
 
 <div class="responsive-table">
@@ -45,16 +45,16 @@ layout: page
       <tr>
         <th>Textbook Title</th> 
         <th>Author</th>
-        <th>Required</th> 
-        <th>Bookstore Listing</th>
+        <th>ISBN</th> 
+        <th>Location</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>The Automatic Customer</td>
-        <td>John Warrillow</td> 
-        <td>Yes</td> 
-        <td><a href="https://catalog.ggc.edu/preview_course_nopop.php?catoid=33&coid=5888/">Book Link</a></td>
+        <td>Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition</td>
+        <td>Martin Kleppmann</td> 
+        <td>ISBN-13: 978-1449373320 </td> 
+        <td><a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321">Amazon Link</a></td>
       </tr>
     </tbody>
     
