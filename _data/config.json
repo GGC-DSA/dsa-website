@@ -64,12 +64,6 @@
         ]
     },
     "footer": {
-            {
-                "label": "Author",
-                "url": "/author",
-                "style": "primary",
-                "has_subnav": false
-            }
         "has_social": true,
         "social_links": [
             {
