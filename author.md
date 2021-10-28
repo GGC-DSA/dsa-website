@@ -14,7 +14,7 @@ sections:
       This 3-credit hour Data Science and Analytics Capstone Project (ITEC 4230) course website was developed by Kevin Beltran.
       Kevin Beltran is a marketer and developer with more than 3 years of experience in direct response marketing and leadership.
     actions:
-      - label: Website
+      - label: Contact
         url: https://estatemediahouse.com/
         style: primary
   - section_id: cta
