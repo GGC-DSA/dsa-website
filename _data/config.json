@@ -64,7 +64,7 @@
         ]
     },
     "footer": {
-        "content": "This site was created by <a href=\"https://dsa-website.netlify.app/about/" target=\"_blank\" rel=\"noopener\">Kevin</a>",
+        "content": "This site was created by <a href=\"https://dsa-website.netlify.app/about/" target=\"_blank\" rel=\"noopener\">Kevin</a>,
         "has_social": true,
         "social_links": [
             {
