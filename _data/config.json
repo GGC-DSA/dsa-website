@@ -64,6 +64,13 @@
         ]
     },
     "footer": {
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link",
+                "has_subnav": false
+            },
         "has_social": true,
         "social_links": [
             {
