@@ -64,7 +64,12 @@
         ]
     },
     "footer": {
-        "content": "This site was created by <a href=\"https://dsa-website.netlify.app/about/" rel=\"noopener\">Kevin</a>,
+            {
+                "label": "Author",
+                "url": "/author",
+                "style": "primary",
+                "has_subnav": false
+            }
         "has_social": true,
         "social_links": [
             {
