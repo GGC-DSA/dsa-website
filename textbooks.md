@@ -138,12 +138,28 @@ layout: page
     </thead>
     <tbody>
       <tr>
-        <td>iTunes</td>
-        <td><a href="https://www.apple.com/itunes/">Download Link</a></td>
+        <td>Python</td>
+        <td><a href="https://www.python.org/downloads/">Download Link</a></td>
       </tr>
       <tr>
-        <td>Bear</td>
-        <td><a href="https://bear.app/">Download Link</a></td>
+        <td>Jupyter</td>
+        <td><a href="https://jupyter.org/">Download Link</a></td>
+      </tr>
+      <tr>
+        <td>Jupyter</td>
+        <td><a href="https://jupyter.org/">Download Link</a></td>
+      </tr>
+      <tr>
+        <td>Tableau</td>
+        <td><a href="https://www.tableau.com/">Download Link</a></td>
+      </tr>
+      <tr>
+        <td>JavaScript</td>
+        <td><a href="https://www.javascript.com/">Download Link</a></td>
+      </tr>
+      <tr>
+        <td>R Project</td>
+        <td><a href="https://www.r-project.org/">Download Link</a></td>
       </tr>
     </tbody>
     
