@@ -142,7 +142,7 @@ layout: page
         <td><a href="https://www.python.org/downloads/">Download Link</a></td>
       </tr>
       <tr>
-        <td>Jupyter</td>
+        <td>Jupyter Notebooks</td>
         <td><a href="https://jupyter.org/">Download Link</a></td>
       </tr>
       <tr>
