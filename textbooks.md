@@ -146,10 +146,6 @@ layout: page
         <td><a href="https://jupyter.org/">Download Link</a></td>
       </tr>
       <tr>
-        <td>Jupyter</td>
-        <td><a href="https://jupyter.org/">Download Link</a></td>
-      </tr>
-      <tr>
         <td>Tableau</td>
         <td><a href="https://www.tableau.com/">Download Link</a></td>
       </tr>
