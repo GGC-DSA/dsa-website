@@ -3,7 +3,7 @@ title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
 subtitle: Find out what the course requirements are before taking the class.
 image: images/5.jpg
 seo:
-  title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
+  title: Course Requirements
   description: Find out what the course requirements are before taking the class.
   extra:
     - name: 'og:type'
