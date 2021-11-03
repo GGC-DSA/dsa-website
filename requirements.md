@@ -27,8 +27,8 @@ sections:
     title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
     actions:
 seo:
-  title: Stackbit Libris Theme
-  description: The preview of the Libris theme
+  title: ITEC 4230 General Requirements 
+  description: The general requirements for this course.
   extra:
     - name: 'og:type'
       value: website
