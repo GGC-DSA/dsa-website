@@ -12,7 +12,6 @@ sections:
     type: section_content
     image: images/DSACOURSEMAP.PNG
     image_position: center
-    title: Course Map
 
   - section_id: cta
     type: section_cta
