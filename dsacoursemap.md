@@ -23,8 +23,8 @@ sections:
         url: /docs/about
         style: primary
 seo:
-  title: ITEC 4230 DATA SCIENCE AND ANALYTICS ALUMNI
-  description: We are proud of our alumni.
+  title: Course Map
+  description: Here is the current course map for the DSA major.
   extra:
     - name: 'og:type'
       value: website
@@ -50,29 +50,3 @@ seo:
       relativeUrl: true
 layout: advanced
 ---
-
-## Upcoming Hackathons 
-
-
-<div class="responsive-table">
-  <table>
-     
-    <thead>
-      <tr>
-        <th>Event</th> 
-        <th>Location</th>
-        <th>Date</th> 
-        <th>Link</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Hacklytics</td>
-        <td>Georgia Tech</td> 
-        <td>February 5th-7th 2021</td> 
-        <td><a href="https://hacklytics.io/">https://hacklytics.io/</a></td>
-      </tr>
-    </tbody>
-    
-  </table>
-</div>
