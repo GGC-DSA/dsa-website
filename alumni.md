@@ -30,8 +30,8 @@ sections:
         url: /docs/about
         style: primary
 seo:
-  title: Stackbit Libris Theme
-  description: The preview of the Libris theme
+  title: ITEC 4230 DATA SCIENCE AND ANALYTICS ALUMNI
+  description: We are proud of our alumni.
   extra:
     - name: 'og:type'
       value: website
