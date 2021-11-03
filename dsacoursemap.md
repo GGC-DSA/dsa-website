@@ -26,7 +26,7 @@ sections:
     subtitle: Find out what the course is about.
     actions:
       - label: About
-        url: /docs/about
+        url: /requirements
         style: primary
 seo:
   title: Course Map
