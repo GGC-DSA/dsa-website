@@ -1,10 +1,10 @@
 ---
 title: Domain Electives 
-subtitle: Required 9 credit hours
+subtitle: Domain electives for this path 
 image: images/5.jpg
 seo:
-  title: Theme Style Guide
-  description: A reference for suggested typographic treatment and styles for your content
+  title: Domain Electives 
+  description: Domain electives
   extra:
     - name: 'og:type'
       value: website
