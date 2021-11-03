@@ -15,7 +15,7 @@ sections:
     subtitle: This archive includes all previous projects... Coming soon...
     actions:
       - label: Archived
-        url: /docs/archive-projects
+        url: /archivedprojects
         style: primary
 seo:
   title: DSA Capstone Projects
