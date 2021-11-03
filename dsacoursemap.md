@@ -8,7 +8,7 @@ sections:
     content: >-
       Here is the current course map for the DSA major.
     
-  - section_id: text-img
+  - section_id: img
     type: section_content
     image: images/DSACOURSEMAP.PNG
     image_position: center
