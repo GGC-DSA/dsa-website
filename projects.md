@@ -18,8 +18,8 @@ sections:
         url: /docs/archive-projects
         style: primary
 seo:
-  title: Overview
-  description: This is the overview page
+  title: DSA Capstone Projects
+  description: This archive includes all previous projects...
   extra:
     - name: 'og:type'
       value: website
