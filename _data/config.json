@@ -77,7 +77,8 @@
                         "style": "link"
                     }
               ]
-            }                                        
+            } 
+        ]    
     },
     "footer": {
         "has_social": true,
