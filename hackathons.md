@@ -3,8 +3,8 @@ title: Hackathon events
 subtitle: This is the list of events at which our students participated. The list is updated as often as possible.
 image: images/5.jpg
 seo:
-  title: Theme Style Guide
-  description: A reference for suggested typographic treatment and styles for your content
+  title: Hackathon events
+  description: This is the list of events at which our students participated. The list is updated as often as possible.
   extra:
     - name: 'og:type'
       value: website
