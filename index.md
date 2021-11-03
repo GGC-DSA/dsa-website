@@ -61,8 +61,8 @@ sections:
         url: /requirements
         style: primary
 seo:
-  title: Stackbit Libris Theme
-  description: The preview of the Libris theme
+  title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
+  description: This website provides information about the course events.
   extra:
     - name: 'og:type'
       value: website
