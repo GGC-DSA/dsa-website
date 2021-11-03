@@ -14,7 +14,7 @@ sections:
     image_position: left
     title: Spring 2021 Alumni
     content: >-
-      Sarah Price, Daniel Redder, Haley "Lily" Sheppard, (not in photo) Shababa "May" Kamreen, Ruth Whitehouse, Turner Nalley, Brittany Giordano. 
+      Sarah Price, Daniel Redder, Haley "Lily" Sheppard, M.S.K, Ruth Whitehouse, Turner Nalley, Brittany Giordano. 
       DSA Professors: Dr. Richard Price, Dr. Anca Doloc-Mihu, Dr. Cengiz Gunay
     actions:
       - label: Projects
