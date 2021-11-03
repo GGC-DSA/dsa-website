@@ -3,14 +3,14 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: ITEC 4230 DATA SCIENCE AND ANALYTICS ALUMNI
+    title: DATA SCIENCE AND ANALYTICS CONCENTRATION COURSE MAP
     image: images/5.jpg
     content: >-
-      We are proud of our alumni.
+      Here is the current course map for the DSA major.
     
   - section_id: text-img
     type: section_content
-    image: images/Spring2021Alumni.PNG
+    image: images/DSACOURSEMAP.PNG
     image_position: left
     title: Spring 2021 Alumni
     content: >-
