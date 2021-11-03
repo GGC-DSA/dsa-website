@@ -56,11 +56,26 @@
                 "has_subnav": false
             },
             {
-                "label": "Author",
-                "url": "/author",
-                "style": "primary",
-                "has_subnav": false
-            }
+                "label": "Info",
+                "url": "/faq",
+                "style": "link",
+                "has_subnav": true,
+                "subnav_links": [
+                    {
+                        "label": "FAQ",
+                        "url": "/faq",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Contact",
+                        "url": "/contact",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Author",
+                        "url": "/author",
+                        "style": "link"
+                    }
         ]
     },
     "footer": {
