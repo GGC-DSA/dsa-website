@@ -22,6 +22,9 @@ sections:
       - label: Textbooks
         url: /textbooks
         style: primary
+      - label: Course Map
+        url: /dsacoursemap
+        style: primary
   - section_id: cta
     type: section_cta
     title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
