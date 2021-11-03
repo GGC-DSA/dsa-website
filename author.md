@@ -22,8 +22,8 @@ sections:
     title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
     actions:
 seo:
-  title: Stackbit Libris Theme
-  description: The preview of the Libris theme
+  title: About the Author
+  description: The Author description for this website.
   extra:
     - name: 'og:type'
       value: website
