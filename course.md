@@ -3,8 +3,8 @@ title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
 subtitle: Find out what the course requirements are before taking the class.
 image: images/5.jpg
 seo:
-  title: Theme Style Guide
-  description: A reference for suggested typographic treatment and styles for your content
+  title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
+  description: Find out what the course requirements are before taking the class.
   extra:
     - name: 'og:type'
       value: website
