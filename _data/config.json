@@ -76,7 +76,8 @@
                         "url": "/author",
                         "style": "link"
                     }
-                ]
+              ]
+            }                                        
     },
     "footer": {
         "has_social": true,
