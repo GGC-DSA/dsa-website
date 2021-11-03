@@ -9,7 +9,7 @@ sections:
       This website provides information about the course events.
     actions:
       - label: Get Started
-        url: /docs
+        url: /requirements
         style: primary
   - section_id: features
     type: section_grid
