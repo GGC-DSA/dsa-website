@@ -26,8 +26,8 @@ sections:
     title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
     subtitle: Find out what the course is about.
     actions:
-      - label: About
-        url: /docs/about
+      - label: Home
+        url: /
         style: primary
 seo:
   title: ITEC 4230 DATA SCIENCE AND ANALYTICS ALUMNI
