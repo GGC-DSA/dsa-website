@@ -19,8 +19,8 @@ sections:
         image: images/evolution.jpg
         content: By Professor Jennifer Priestley, Kennesaw State University, April 15th 2020.      
 seo:
-  title: Showcase
-  description: This is the showcase page
+  title: DSA Events
+  description: DSA upcoming and past events
   extra:
     - name: 'og:type'
       value: website
