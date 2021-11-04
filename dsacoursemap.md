@@ -10,8 +10,7 @@ sections:
     
   - section_id: text-img
     type: section_content
-    image: images/DSACOURSEMAP.PNG
-    alt: DATA SCIENCE AND ANALYTICS CONCENTRATION COURSE MAP
+    image: images/DSACOURSEMAP.PNG alt = "DATA SCIENCE AND ANALYTICS CONCENTRATION COURSE MAP"
     image_position: left
     title: Course map
     content: >-
