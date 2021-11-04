@@ -10,8 +10,7 @@ sections:
     
   - section_id: text-img
     type: section_content
-    name: 'DSA COURSE MAP IMAGE'
-    image: images/DSACOURSEMAP.PNG 
+    image: images/DSACOURSEMAP.PNG
     image_position: left
     title: Course map
     content: >-
