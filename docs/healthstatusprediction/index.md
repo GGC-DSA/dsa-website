@@ -8,7 +8,7 @@ sections:
     title: Health Status Prediction
     image: images/5.jpg
     title: Health Status Project
-    subtitle: by Team IT Girls SARAH PRICE, RUTH WHITEHOUSE, SHABABA KAMREEN, LILLIAN SHEPPARD
+    subtitle: by Team IT Girls SARAH PRICE, RUTH WHITEHOUSE, M.S.K., LILLIAN SHEPPARD
     content: >-
       Create an exploratory visual that is both engaging and informative to a user about Heart Disease based on multiple risk factors. 
   - section_id: text-img
