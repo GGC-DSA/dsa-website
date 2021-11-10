@@ -20,6 +20,13 @@
 16. ~~link textbooks page on menu for easy access
 17. ~~Update menu with events, course requirements, 
 18. ~~Remove stackbit watermark/signature 
+19. add alt text for images for voiceover/accessability support
+Some resource for adding alt text.
+https://knowledge.exlibrisgroup.com/campusM/Product_Documentation/Managing_Creative_Studio/060_Adding_Page_Components
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img
+https://dev.to/stephencweiss/markdown-image-titles-and-alt-text-5fi1
+
+22. add archives for projects might need implementation 
 
 <img src="https://themes.stackbit.com/images/libris-demo-1024x768.png" width="600">
 
