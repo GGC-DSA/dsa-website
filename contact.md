@@ -12,6 +12,10 @@ sections:
     title: Contact
     content: >-
       Contact the Professor, Dr. Doloc-Mihu at **adolocmihu at ggc.edu**
+    actions:
+      - label: Feedback
+        url: https://docs.google.com/forms/d/e/1FAIpQLScUZ4VcPIK0g1UHIEs6MwQheRgnFfGD6FF-dQDep5xeURmy3w/viewform?usp=sf_link
+        style: primary
   - section_id: cta
     type: section_cta
     title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
