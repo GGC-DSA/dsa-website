@@ -13,7 +13,7 @@ sections:
     content: >-
       Contact the Professor, Dr. Doloc-Mihu at **adolocmihu at ggc.edu**
     actions:
-      - label: Feedback
+      - label: Provide Feedback
         url: https://docs.google.com/forms/d/e/1FAIpQLScUZ4VcPIK0g1UHIEs6MwQheRgnFfGD6FF-dQDep5xeURmy3w/viewform?usp=sf_link
         style: primary
   - section_id: cta
