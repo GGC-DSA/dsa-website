@@ -10,7 +10,7 @@ sections:
     
   - section_id: text-img
     type: section_content
-    image: [Benjamin Bannekat]images/Spring2021Alumni.PNG
+    image: images/Spring2021Alumni.PNG [Benjamin Bannekat]
     image_position: left
     title: Spring 2021 Alumni
     content: >-
