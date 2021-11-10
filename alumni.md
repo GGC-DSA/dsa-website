@@ -11,7 +11,7 @@ sections:
   - section_id: text-img
     type: section_content
     image: images/Spring2021Alumni.PNG
-    alt="Grapefruit slice atop a pile of other slices"
+    alt:"Grapefruit slice atop a pile of other slices"
     image_position: left
     title: Spring 2021 Alumni
     content: >-
