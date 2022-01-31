@@ -9,9 +9,9 @@ sections:
       
   - section_id: text-no-img
     type: section_content
-    title: Website Created By Kevin Beltran
+    title: Website Created By Davensky Sanon
     content: >-
-      This website was developed by Kevin Beltran as a STEC 4500 Project during fall 2021. The project was conducted by Dr. Anca Doloc-Mihu who is a data science enthusiast with more than 15 years experience in research.
+      This website was developed by Davensky Sanon as a STEC 4500 Project during Spring 2021. The project was conducted by Dr. Anca Doloc-Mihu who is a data science enthusiast with more than 15 years experience in research.
   - section_id: cta
     type: section_cta
     title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
