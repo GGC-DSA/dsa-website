@@ -3,22 +3,22 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: About the Author
+    title: About
     image: images/5.jpg
     content: >-
       
   - section_id: text-no-img
     type: section_content
-    title: Website Created By Kevin Beltran
+    title: Website created by Kevin Beltran
     content: >-
-      This website was developed by Kevin Beltran as a STEC 4500 Project during fall 2021. The project was conducted by Dr. Anca Doloc-Mihu who is a data science enthusiast with more than 15 years experience in research.
+      This website was developed by Kevin Beltran as a STEC 4500 Project during fall 2021. The project was conducted by Dr. Anca Doloc-Mihu who is a data science enthusiast with more than 15 years experience in DS research.
   - section_id: cta
     type: section_cta
     title: ITEC 4230 DATA SCIENCE AND ANALYTICS CAPSTONE COURSE
     actions:
 seo:
-  title: About the Author
-  description: The Author description for this website.
+  title: About
+  description: The description for this website.
   extra:
     - name: 'og:type'
       value: website
