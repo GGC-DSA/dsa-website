@@ -17,7 +17,7 @@ sections:
     content: >-
       *Current instructor*  
       
-      Dr. Anca Doloc-Mihu a research scientist with more than 10 years of experience as a Postdoctoral Fellow at Emory University
+      Dr. Anca Doloc-Mihu is a research scientist with more than 10 years of experience as a Postdoctoral Research Fellow at Emory University. Her research focuses on developing computational solutions to find meaning in masive datasets. 
     actions:
       - label: Contact
         url: https://www.ggc.edu/about-ggc/directory/anca-doloc-mihu
@@ -30,7 +30,7 @@ sections:
     content: >-
       *Instructor, Spring 2021*  
       
-      Dr. Kamal Kakish a chief technologist with more than 25 years of experience in IT strategic planning and leadership.
+      Dr. Kamal Kakish is a chief technologist with more than 25 years of experience in IT strategic planning and leadership.
     actions:
       - label: Contact
         url: https://www.ggc.edu/about-ggc/directory/kamal-kakish
