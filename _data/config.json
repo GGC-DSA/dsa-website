@@ -72,8 +72,8 @@
                         "style": "link"
                     },
                     {
-                        "label": "Author",
-                        "url": "/author",
+                        "label": "About",
+                        "url": "/about",
                         "style": "link"
                     }
               ]
