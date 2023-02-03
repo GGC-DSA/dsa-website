@@ -7,7 +7,18 @@ sections:
     image: images/5.jpg
     content: >-
       We are proud of our alumni.
-    
+
+  - section_id: text-img
+    type: section_content
+    title: Spring 2022 Alumni
+    content: >-
+      Andres Almaraz, David Hiraldo-Panchana, Matthew Bauer. 
+      DSA Professor: Dr. Anca Doloc-Mihu
+    actions:
+      - label: Projects
+        url: /projects
+        style: primary
+        
   - section_id: text-img
     type: section_content
     image: images/Spring2021Alumni.PNG
