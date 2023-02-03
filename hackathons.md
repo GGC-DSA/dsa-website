@@ -53,8 +53,20 @@ layout: page
       <tr>
         <td>Hacklytics</td>
         <td>Georgia Tech</td> 
-        <td>February 5th-7th 2021</td> 
+        <td>February 10th-12th 2023</td> 
         <td><a href="https://hacklytics.io/">https://hacklytics.io/</a></td>
+      </tr>
+      <tr>
+        <td>DataThon</td>
+        <td>University of Washington</td> 
+        <td>February 18th-19th 2023</td> 
+        <td><a href="https://datathon2023.webflow.io/">https://datathon2023.webflow.io/</a></td>
+      </tr>
+       <tr>
+        <td>Global Hack Week - AI/ML Week</td>
+        <td>MLH</td> 
+        <td>February 6th-13th 2023</td> 
+        <td><a href="https://ghw.mlh.io/events/ai">https://ghw.mlh.io/events/ai</a></td>
       </tr>
     </tbody>
     
