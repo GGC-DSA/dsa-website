@@ -23,7 +23,7 @@ sections:
     type: section_content
     image: images/kamalkakish.jpg
     image_position: left
-    title: Dr. KAMAL KAKISH
+    title: [Past instructor] Dr. KAMAL KAKISH
     content: >-
       Dr. Kamal Kakish a chief technologist with more than 25 years of experience in IT strategic planning and leadership.
     actions:
