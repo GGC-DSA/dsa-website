@@ -16,10 +16,6 @@ sections:
     content: >-
       Andres Almaraz, David Hiraldo-Panchana, Matthew Bauer. 
       DSA Professor: Dr. Anca Doloc-Mihu
-    title: Spring 2021 Alumni
-    content: >-
-      Sarah Price, Daniel Redder, Haley "Lily" Sheppard, M.S.K, Ruth Whitehouse, Turner Nalley, Brittany Giordano. 
-      DSA Professors: Dr. Richard Price, Dr. Anca Doloc-Mihu, Dr. Cengiz Gunay
     actions:
       - label: Projects
         url: /projects
