@@ -12,7 +12,8 @@ sections:
     type: section_content
     image: images/adolocmihu.jpg
     image_position: left
-    title: Dr. ANCA DOLOC-MIHU [Current instructor]
+    title: Dr. ANCA DOLOC-MIHU 
+    subtitle: Current instructor
     content: >-
       Dr. Anca Doloc-Mihu a research scientist with more than 10 years of experience as a Postdoctoral Fellow at Emory University
     actions:
@@ -23,7 +24,8 @@ sections:
     type: section_content
     image: images/kamalkakish.jpg
     image_position: left
-    title: Dr. KAMAL KAKISH [Instructor, Spring 2021]
+    title: Dr. KAMAL KAKISH 
+    subtitle: Instructor, Spring 2021
     content: >-
       Dr. Kamal Kakish a chief technologist with more than 25 years of experience in IT strategic planning and leadership.
     actions:
