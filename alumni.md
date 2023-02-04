@@ -11,7 +11,7 @@ sections:
   - section_id: text-img
     type: section_content
     title: Spring 2022 Alumni
-    image: images/Spring2021Alumni.PNG
+    image: images/AlumniSPR2021.jpg
     image_position: left
     content: >-
       Andres Almaraz, David Hiraldo-Panchana, Matthew Bauer. 
@@ -24,6 +24,8 @@ sections:
   - section_id: text-img
     type: section_content
     title: Spring 2021 Alumni
+    image: images/AlumniSPR2021_1.jpg
+    image_position: left
     content: >-
       Sarah Price, Daniel Redder, Haley "Lily" Sheppard, M.S.K, Ruth Whitehouse, Turner Nalley, Brittany Giordano. 
       DSA Professors: Dr. Richard Price, Dr. Anca Doloc-Mihu, Dr. Cengiz Gunay
