@@ -1,5 +1,5 @@
 ---
-title: Bus Transit Prediction
+title: PFSA Findings - Spring 2022
 excerpt: >-
   The project develops a dynamic map that shows the route and the predicted time of a bus arrival at a bus station. This project aims to make good travel time predictions for both route and segments of route with the bus GPS data using artificial neural networks. Good prediction helps with urban transportation planning and bus riders’ time planning.
 sections:
