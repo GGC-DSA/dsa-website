@@ -1,5 +1,5 @@
 ---
-title: Health Status Project
+title: Health Status Project - Spring 2021
 excerpt: >-
   Create an exploratory visual that is both engaging and informative to a user about Heart Disease based on multiple risk factors.
 sections:
