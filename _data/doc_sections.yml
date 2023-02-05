@@ -1,4 +1,6 @@
 root_docs_path: /docs
 sections:
+  - pfsafindings 
+  - extremeweatherprediction
   - healthstatusprediction
   - bustransitprediction
