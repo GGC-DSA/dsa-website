@@ -13,12 +13,12 @@ sections:
       The project finds trends for PFAS/Teflon in the US and GA. Our goal is to be able to prevent any harm to people from PFAS at any site and find the offenders causing it.
   - section_id: text-img
     type: section_content
-    image: images/posterimageBusnet.PNG
+    image: images/pfsa.PNG
     image_position: left
     title: PFSA Trends 
     content: >-
       *by Andres Almaraz and David Luis Hiraldo-Panchana*  
-      *Client: Dr. Fred Sieling https://www.linkedin.com/in/fredsieling/*  
+      *Client: Dr. Fred Sieling url: https://www.linkedin.com/in/fredsieling/*  
       
       Our goal was to find trends that will allow us to find PFAS/Teflon in US and GA. It is a manufactured chemical that can cause serious health issues if it enters a person's blood system. Teflon which can contain a chemical of PFAS and can be found on materials like nonstick pan or water repellent clothing. The chemical can never fully go away since it stays wherever it is left whether it is in the air, water, or someone’s body. In addition to our goal, we want to be able to prevent any harm to people from PFAS at any site and find the offenders causing it.
     actions:
@@ -34,7 +34,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: GitHub Repo
-    subtitle: Technologies - Python, R, Git, AWS, Colab, Jupyter Notebooks, Tableau, uwsgi, nginx, tmux, cron, notepad++, AWS CLI
+    subtitle: Technologies - Python, GitHub, Jupyter Notebook, Tableau, Deepnote, Bootstrap, HTML
     actions:
       - label: Repo
         url: https://github.com/GGC-DSA/pfas
