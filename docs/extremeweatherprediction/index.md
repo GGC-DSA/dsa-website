@@ -18,7 +18,8 @@ sections:
     title: Extreme Weather Prediction 
     content: >-
       *by Samuel Dean and Matthew Bauer*   
-      *Client: Tom Coffin, https://www.linkedin.com/in/tom-coffin/*  
+      
+      *Client: ![Tom Coffin](https://www.linkedin.com/in/tom-coffin/)*  
       
       For our Data Science and Analytics capstone project, we worked with our client Tom Coffin who provided us with a problem statement. Our goal was to find a dataset that represented a potential negative consequence from Global Warming. With this in mind, our team found a dataset that has kept record of tornados that occured in the United States from 1950 to 2015. This set includes details such as F-Scale, width, length, location, injuries, and fatalities. 
     actions:
