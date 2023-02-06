@@ -10,14 +10,14 @@ sections:
     title: Extreme Weather Prediction
     subtitle: by Samuel Dean and Matthew Bauer
     content: >-
-      For our Data Science and Analytics capstone project, we worked with our client Tom Coffin who provided us with a problem statement. Our goal was to find a dataset that represented a potential negative consequence from Global Warming. With this in mind, our team found a dataset that has kept record of tornados that occured in the United States from 1950 to 2015. This set includes details such as F-Scale, width, length, location, injuries, and fatalities. The source of our dataset can be found ![here](https://www.kaggle.com/datasets/jtennis/spctornado).
+      Project aims to make good predictions for more destructive tornados appearing more frequently by the increase of Global Warming.
   - section_id: text-img
     type: section_content
-    image: images/posterimageBusnet.PNG
+    image: images/tornadoes.PNG
     image_position: left
     title: Extreme Weather Prediction by Samuel Dean and Matthew Bauer
     content: >-
-      Project aims to make good predictions for more destructive tornados appearing more frequently by the increase of Global Warming.
+      For our Data Science and Analytics capstone project, we worked with our client Tom Coffin who provided us with a problem statement. Our goal was to find a dataset that represented a potential negative consequence from Global Warming. With this in mind, our team found a dataset that has kept record of tornados that occured in the United States from 1950 to 2015. This set includes details such as F-Scale, width, length, location, injuries, and fatalities. The source of our dataset can be found ![here](https://www.kaggle.com/datasets/jtennis/spctornado).
     actions:
       - label: View Demo
         url: https://www.youtube.com/watch?v=blMMpMdMTU8
@@ -31,7 +31,7 @@ sections:
     subtitle: Technologies - Python, Git, Deepnote Notebooks, HTML/CSS
     actions:
       - label: Repo
-        url: https://github.com/GGC-DSA/bus-transit-prediction
+        url: https://github.com/GGC-DSA/extremeweather
         style: primary
 seo:
   title: Stackbit Libris Theme
