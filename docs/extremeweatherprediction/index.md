@@ -17,13 +17,16 @@ sections:
     image_position: left
     title: Extreme Weather Prediction by Samuel Dean and Matthew Bauer
     content: >-
-      For our Data Science and Analytics capstone project, we worked with our client Tom Coffin who provided us with a problem statement. Our goal was to find a dataset that represented a potential negative consequence from Global Warming. With this in mind, our team found a dataset that has kept record of tornados that occured in the United States from 1950 to 2015. This set includes details such as F-Scale, width, length, location, injuries, and fatalities. The source of our dataset can be found ![here](https://www.kaggle.com/datasets/jtennis/spctornado).
+      For our Data Science and Analytics capstone project, we worked with our client Tom Coffin who provided us with a problem statement. Our goal was to find a dataset that represented a potential negative consequence from Global Warming. With this in mind, our team found a dataset that has kept record of tornados that occured in the United States from 1950 to 2015. This set includes details such as F-Scale, width, length, location, injuries, and fatalities. 
     actions:
       - label: View Demo
         url: https://www.youtube.com/watch?v=blMMpMdMTU8
         style: primary
       - label: Deepnote Notebook
         url: https://github.com/GGC-DSA/extremeweather/blob/main/notebooks/FinalCapstone.ipynb
+        style: secondary
+      - label: Dataset
+        url: https://www.kaggle.com/datasets/jtennis/spctornado
         style: secondary
   - section_id: cta
     type: section_cta
