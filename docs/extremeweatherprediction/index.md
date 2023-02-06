@@ -15,8 +15,9 @@ sections:
     type: section_content
     image: images/tornadoes.PNG
     image_position: left
-    title: Extreme Weather Prediction by Samuel Dean and Matthew Bauer
+    title: Extreme Weather Prediction 
     content: >-
+      *by Samuel Dean and Matthew Bauer*  
       For our Data Science and Analytics capstone project, we worked with our client Tom Coffin who provided us with a problem statement. Our goal was to find a dataset that represented a potential negative consequence from Global Warming. With this in mind, our team found a dataset that has kept record of tornados that occured in the United States from 1950 to 2015. This set includes details such as F-Scale, width, length, location, injuries, and fatalities. 
     actions:
       - label: View Demo
